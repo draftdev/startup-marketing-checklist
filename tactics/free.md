@@ -9,6 +9,7 @@
   #### Q&A Communities
   - [ ] [Stack Overflow](https://stackoverflow.com/)
   - [ ] [Quora](https://www.quora.com/)
+  - [ ] Industry or geographically specific forums
 
 - [ ] Post your product on directories and review sites
 
@@ -55,3 +56,5 @@
   - [ ] Local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile))
   - [ ] Local bloggers in your industry
   - [ ] National bloggers in your industry
+
+- [ ] Find Reviews or lists of similar products. Ask to be added or leave a comment about your product.

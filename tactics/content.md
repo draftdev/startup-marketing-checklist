@@ -14,6 +14,16 @@
   - [ ] [Squarespace](https://www.squarespace.com/)
   - [ ] [Wordpress.com](https://wordpress.org/)
 
+- [ ] Build an email list.
+
+  #### Email list building tactics
+  - [ ] Add a sign up form or link to all blog posts.
+  - [ ] Promote email list on social media.
+  - [ ] Create an "early access" list for potential future customers.
+  - [ ] Add interest form to your landing page.
+
+- [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
+
 - [ ] Set up social media accounts
 
   #### Social media platforms

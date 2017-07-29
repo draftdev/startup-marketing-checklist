@@ -21,3 +21,6 @@
   #### Commission advertising platforms
   - [ ] [Commission Junction](http://www.cj.com/advertiser)
   
+- [ ] Sponsor a local meetup or conference for your target customers.
+- [ ] Sponsor podcasts your customers might be listening to.
+- [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
