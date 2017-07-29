@@ -24,7 +24,7 @@ Each file in this repository contains a list of marketing tactics within one of 
 
 Each list is meant to be **as comprehensive as possible**. Your job is to **narrow down what works and what doesn't** for your project.
 
-If you have ideas that I _haven't_ included, please see the [Contributing](#Contributing) section below.
+If you have ideas that I _haven't_ included, please see the [Contributing](#contributing) section below.
 
 ### Categories
 
