@@ -20,31 +20,31 @@ In this repo, I keep a list of the side project marketing tactics and ideas I've
 
 ## Organization
 
-The [tactics/](tactics) directory contains a list of marketing tactics broken down by category. Some of these categories will be relevant to your project, and others may not be.
+Each file in this repository contains a list of marketing tactics within one of the categories below. Some of these categories and items will be relevant to your project, and others may not be.
 
 Each list is meant to be **as comprehensive as possible**. Your job is to **narrow down what works and what doesn't** for your project.
 
-If you have ideas that I _haven't_ included, please submit a [issue](https://github.com/karllhughes/side-project-marketing/issues) or [pull request](https://github.com/karllhughes/side-project-marketing/pulls). We can all benefit from the shared knowledge.
+If you have ideas that I _haven't_ included, please see the [Contributing](#Contributing) section below.
 
 ### Categories
 
-#### [Market Research](tactics/market-research.md)
-Learning more about your market, competition, and customers is an often-overlooked part of marketing, but it helps inform the way you describe your product and the customers you reach out to. This section contains some simple market research tools and tactics you can use to get a grip on who you're selling to and why your product or service is better than your competition.
+#### [Market Research](market-research.md)
+Learning more about your market, competition, and customers helps inform the way you describe your product and the customers you reach out to. This section contains some simple market research tools and tactics you can use to figure out who you're selling to and how to make a product that is better than your competition's.
 
-#### [Cold Outreach](tactics/cold-outreach.md)
-I hate doing cold outreach because it can feel so spammy, but let's be honest, if you don't tell your future customers you exist, you'll never convince them to give your product or service a try.
+#### [Cold Outreach](cold-outreach.md)
+I hate doing cold outreach because it can feel so spammy, but let's be honest, if you don't tell your future customers you exist, you'll never convince them to give your product a try. One-on-one conversations with customers is often the best way to start making sales and refining your product.
 
-#### [Free Promotional Channels](tactics/free.md)
-These are sites and places you can promote your product for free...well, except for your time.
+#### [Free Promotional Channels](free.md)
+These are sites and places you can promote your product for free...well, except for your time. This section includes lists of business directories and blogs you can pitch your product to among other things. 
 
-#### [Paid Promotional Channels](tactics/paid.md)
-Sites and services that will help you promote your product for a price.
+#### [Paid Promotional Channels](paid.md)
+Here are sites and services that will help you promote your product for a price. Includes lists of online advertisers, commission-based referral networks, and sponsorship programs.
 
-#### [Content Marketing](tactics/content.md)
-Writing blog posts is _extremely_ time-consuming, especially if you're not a big writer, but there are a lot of ways to use and generate content to help you promote your product. 
+#### [Content Marketing](content.md)
+Writing blog posts is time-consuming, especially if you're not a big writer, but there are a lot of ways to use and generate content to help you promote your product. This section includes content marketing tactics.
 
-#### [Other](tactics/other.md)
-If it doesn't fit into one of the above categories I'm putting it here.
+#### [Other](other.md)
+If it doesn't fit into one of the above categories I'm putting it here. As this document improves we may create new categories or rehash existing ones.
 
 ## Contributing
 
