@@ -25,3 +25,5 @@
   - [ ] Look through their Facebook fans
   - [ ] People who follow them on Linkedin
   - [ ] Some companies list customer stories on their websites
+
+- [ ] Set up website/app analytics to learn about who signs up, bounces, etc.

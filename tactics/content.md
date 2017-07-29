@@ -1,9 +1,10 @@
 # Content Marketing
 
-> _Content Marketing is all the Marketing that’s left._ - Seth Godin
+> _Content Marketing is all the marketing that’s left._ - Seth Godin
 
 ## Tactics
 
+- [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
 - [ ] Regularly post blog posts on your blog(s)
 
   #### Blogging platforms
@@ -21,8 +22,13 @@
   - [ ] Promote email list on social media.
   - [ ] Create an "early access" list for potential future customers.
   - [ ] Add interest form to your landing page.
+  
+- [ ] Set up a landing page.
 
-- [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
+  #### Landing page tools
+  - [ ] [Unbounce](https://unbounce.com/)
+  - [ ] [Squarespace](https://www.squarespace.com/)
+  - [ ] [Rocketpages](http://www.rocketpages.net/)
 
 - [ ] Set up social media accounts
 
@@ -41,7 +47,7 @@
   - [ ] [Buffer](https://buffer.com/)
   - [ ] [Recurpost](https://recurpost.com/)
 
-- [ ] Guest post on other blogs
+- [ ] Guest post on other blogs.
 
   #### Guest posting formula
   - [ ] Build a list of blogs that are a good fit for your product and accept guest posts. Save their contact form/information.
@@ -50,4 +56,5 @@
   - [ ] Pitch the blogs one idea each. See what they respond to.
   - [ ] Help promote your posts via social media, email lists, etc.
   - [ ] Reach back out in a month and try another pitch. Try to become a "regular"
-  
+
+- [ ] Write and distribute an eBook.
