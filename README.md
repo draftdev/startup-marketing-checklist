@@ -1,6 +1,8 @@
 # Side Project Marketing
 
-## Intro
+A list of side project marketing tactics for software products and services.
+
+## Why?
 
 I've been building little software side projects for years, but I've always been terrible at marketing them. I come up with some ideas, forget those ideas, do some random stuff, then lose interest. The goal of this repository is to fix that.
 
@@ -8,19 +10,21 @@ In this repo, I keep a list of the side project marketing tactics and ideas I've
  
 ## How to use
 
-1. Fork this repository
+1. Fork this repository.
 
-2. Modify tactics as you see fit based on your project and customers
+2. Add, remove, or modify the tactics lists as you see fit based on your project and customers.
 
-3. Get to work! Each tactic is broken down into handy checklists, so you can keep up with which things you've tried and which you have not.
+3. Get to work! Each tactic is broken down into handy checklists, so you can keep up with which things you've tried and which you haven't.
 
 4. Profit? I mean, that's the goal, right?
 
 ## Organization
 
-The [tactics/](tactics) directory contains a list of marketing tactics broken down by category. Some of these categories will be relevant to your project, and others may not be. Each list of tactics within each category will have items which are relevant and others which are not.
+The [tactics/](tactics) directory contains a list of marketing tactics broken down by category. Some of these categories will be relevant to your project, and others may not be.
 
-Each list is meant to be **as comprehensive as possible**. Your job is to narrow down what works and what doesn't work for you.
+Each list is meant to be **as comprehensive as possible**. Your job is to **narrow down what works and what doesn't** for your project.
+
+If you have ideas that I _haven't_ included, please submit a [issue](https://github.com/karllhughes/side-project-marketing/issues) or [pull request](https://github.com/karllhughes/side-project-marketing/pulls). We can all benefit from the shared knowledge.
 
 ### Categories
 
@@ -44,7 +48,11 @@ If it doesn't fit into one of the above categories I'm putting it here.
 
 ## Contributing
 
-As with any open source project, I welcome contributors. Submit an issue and/or PR with your improvements or suggestions.
+As with any open source project, I welcome contributors. Submit an issue or pull request with your improvements or suggestions. All contributors will be fully credited.
+
+## Contributors
+
+- Submit a PR, see your name here!
 
 ## License
 
