@@ -6,14 +6,20 @@ Each list is meant to be **as comprehensive as possible**. Your job is to narrow
 
 ## Categories
 
-- [Market Research](market-research.md)
+### [Market Research](market-research.md)
+Learning more about your market, competition, and customers is an often-overlooked part of marketing, but it helps inform the way you describe your product and the customers you reach out to. This section contains some simple market research tools and tactics you can use to get a grip on who you're selling to and why your product or service is better than your competition.
 
-- [Cold outreach](cold-outreach.md)
+### [Cold Outreach](cold-outreach.md)
+I hate doing cold outreach because it can feel so spammy, but let's be honest, if you don't tell your future customers you exist, you'll never convince them to give your product or service a try.
 
-- [Free promotion](free.md)
+### [Free Promotional Channels](free.md)
+These are sites and places you can promote your product for free...well, except for your time.
 
-- [Paid promotion](paid.md)
+### [Paid Promotional Channels](paid.md)
+Sites and services that will help you promote your product for a price.
 
-- [Content marketing](content.md)
+### [Content Marketing](content.md)
+Writing blog posts is _extremely_ time-consuming, especially if you're not a big writer, but there are a lot of ways to use and generate content to help you promote your product. 
 
-- [Other](other.md)
+### [Other](other.md)
+If it doesn't fit into one of the above categories I'm putting it here.

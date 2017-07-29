@@ -17,6 +17,7 @@
 - [ ] Take note of the pricing model(s) competitors use.
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their top employees on social media.
+- [ ] Set up [Google News alerts](https://www.google.com/alerts) for competitors.
 - [ ] Make a list of your competitors' customers.
 
   #### Finding competitors' customers
