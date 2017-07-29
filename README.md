@@ -1,6 +1,6 @@
 # Side Project Marketing
 
-A list of side project marketing tactics for software products and services.
+Marketing tactics for promoting your side project.
 
 ## Why?
 
