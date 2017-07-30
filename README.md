@@ -14,20 +14,18 @@ In this repo, I keep a list of the side project marketing tactics and ideas I've
 
 1. Fork this repository.
 
-2. Add, remove, or modify the tactics lists as you see fit based on your project and customers.
+2. Add, remove, or modify the tactics as you see fit based on your project and customers.
 
-3. Get to work! Each tactic is broken down into handy checklists, so you can keep up with which things you've tried and which you haven't.
+3. Get to work! The checklist format allows you to keep up with which things you've tried and which you haven't.
 
 4. Profit? I mean, that's the goal, right?
 
 
 ## Organization
 
-Each file in this repository contains a list of marketing tactics within one of the categories below. Some of these categories and items will be relevant to your project, and others may not be.
+This list is meant to be **as comprehensive as possible**. Your job is to **narrow down what works and what doesn't** for your project. This list also does not attempt to teach you *how* to do most of these things - that's something you'll have to research on your own - but the list stays focused on simple descriptions of tasks you can do to market your side project or startup.
 
-Each list is meant to be **as comprehensive as possible**. Your job is to **narrow down what works and what doesn't** for your project.
-
-If you have ideas that I _haven't_ included, please see the [Contributing](#contributing) section below.
+If you have ideas that I _haven't_ included or you think you could improve the list, please see the [Contributing](#contributing) section below. I'm not a marketing professional so I welcome any and all feedback.
 
 
 ## Categories
@@ -43,8 +41,6 @@ If you have ideas that I _haven't_ included, please see the [Contributing](#cont
 Learning more about your market, competition, and customers helps inform the way you describe your product and the customers you reach out to. This section contains some simple market research tools and tactics you can use to figure out who you're selling to and how to make a product that is better than your competition's.
 
 > _If we knew what were doing it wouldn’t be called research._ - Albert Einstein
-
-#### Tactics
 
 - [ ] Make a list of competitive/alternative services.
 
@@ -75,8 +71,6 @@ I hate doing cold outreach because it can feel so spammy, but let's be honest, i
 
 > _You should be talking to a small number of users who are seriously interested in what you’re making, not a broad audience who are on the whole indifferent._ - Jessica Livingston, Founding Partner at Y Combinator
 
-#### Tactics
-
 - [ ] Find people in your contact list who might be future customers. Take them out to lunch to get their feedback.
 - [ ] Send a coupon code to close friends and family members to let them try your product.
 - [ ] Reach out to your social media followers, ask them to try your product.
@@ -98,8 +92,6 @@ These are sites and places you can promote your product for free...well, except 
 
 > _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
 
-#### Tactics
-
 - [ ] Answer relevant questions on Q&A community sites (check back regularly)
   
   ##### Q&A Communities
@@ -107,21 +99,10 @@ These are sites and places you can promote your product for free...well, except 
   - [ ] [Quora](https://www.quora.com/)
   - [ ] Industry or geographically specific forums
 
-- [ ] Post your product on directories and review sites
-
-  ##### Product/business directories
-  - See: https://github.com/mmccaff/PlacesToPostYourStartup
-  
-- [ ] Reach out to blogs, inform and ask for coverage
-
-  ##### Product Review/Startup Blogs
-  - See: https://github.com/mmccaff/PlacesToPostYourStartup
-  
-  ##### Other
-  - [ ] Local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile))
-  - [ ] Local bloggers in your industry
-  - [ ] National bloggers in your industry
-
+- [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup))
+- [ ] Reach out to tech, startup, and industry blogs, inform and ask for coverage.
+- [ ] Find and reach out to local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile))
+- [ ] Find and reach out to local bloggers or journalists in your industry
 - [ ] Find Reviews or lists of similar products. Ask to be added or leave a comment about your product.
 
 ### Paid Promotional Channels
@@ -129,7 +110,6 @@ Here are sites and services that will help you promote your product for a price.
 
 > _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
 
-#### Tactics
 - [ ] Paid social and search advertising 
 
   ##### Social and search advertising platforms
@@ -156,8 +136,6 @@ Here are sites and services that will help you promote your product for a price.
 Writing blog posts is time-consuming, especially if you're not a big writer, but there are a lot of ways to use and generate content to help you promote your product. This section includes content marketing tactics.
 
 > _Content Marketing is all the marketing that’s left._ - Seth Godin
-
-#### Tactics
 
 - [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
 - [ ] Regularly post blog posts on your blog(s)
@@ -216,8 +194,6 @@ Writing blog posts is time-consuming, especially if you're not a big writer, but
 
 ### Other
 If it doesn't fit into one of the above categories I'm putting it here. As this document improves we may create new categories or rehash existing ones.
-
-#### Tactics
 
 - [ ] Create a free or trial tier for your paid product.
 - [ ] Offer a 100% satisfaction/money-back guarantee.
