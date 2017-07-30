@@ -56,6 +56,8 @@ Learning more about your market, competition, and customers helps inform the way
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their top employees on social media.
 - [ ] Set up [Google News alerts](https://www.google.com/alerts) for competitors.
+- [ ] Subscribe to industry newsletters, magazines, trade journals etc.
+- [ ] Attend a conference or meetup in your industry.
 - [ ] Make a list of your competitors' customers.
 
   ##### Finding competitors' customers
@@ -65,6 +67,7 @@ Learning more about your market, competition, and customers helps inform the way
   - [ ] Some companies list customer stories on their websites
 
 - [ ] Set up website/app analytics to learn about who signs up, bounces, etc.
+- [ ] Run a customer poll (can also generate content for your blog or social media channels).
 
 ### Cold Outreach
 I hate doing cold outreach because it can feel so spammy, but let's be honest, if you don't tell your future customers you exist, you'll never convince them to give your product a try. One-on-one conversations with customers is often the best way to start making sales and refining your product.
@@ -79,6 +82,8 @@ I hate doing cold outreach because it can feel so spammy, but let's be honest, i
 - [ ] Attend meetups or conferences for your target market.
 - [ ] Add potential customers on Linkedin, reach out when they accept.
 - [ ] Give free access to influential bloggers in the industry.
+- [ ] Meet another entrepreneur who has a similar but noncompetitive product.
+- [ ] Watch a first time user use your product.
 - [ ] Run an early-stage cold email campaign.
 
   ##### An early-stage cold email campaign
@@ -104,6 +109,11 @@ These are sites and places you can promote your product for free...well, except 
 - [ ] Find and reach out to local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile))
 - [ ] Find and reach out to local bloggers or journalists in your industry
 - [ ] Find Reviews or lists of similar products. Ask to be added or leave a comment about your product.
+- [ ] Create and run a "link-building" campaign.
+
+  ##### Link-building
+  - [ ] Ask bloggers with list articles to add your site to their content.
+  - [ ] Find professors and students with `.edu` sites to link to your content.
 
 ### Paid Promotional Channels
 Here are sites and services that will help you promote your product for a price. Includes lists of online advertisers, commission-based referral networks, and sponsorship programs.
@@ -137,8 +147,10 @@ Writing blog posts is time-consuming, especially if you're not a big writer, but
 
 > _Content Marketing is all the marketing that’s left._ - Seth Godin
 
+- [ ] Write a site tagline and elevator pitch.
+- [ ] Build or revisit About and Contact pages for your product.
 - [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
-- [ ] Regularly post blog posts on your blog(s)
+- [ ] Regularly post blog posts on your blog(s).
 
   ##### Blogging platforms
   - [ ] [Linkedin](https://www.linkedin.com/post/new)
@@ -148,6 +160,10 @@ Writing blog posts is time-consuming, especially if you're not a big writer, but
   - [ ] [Squarespace](https://www.squarespace.com/)
   - [ ] [Wordpress.com](https://wordpress.org/)
 
+- [ ] Build a publishing calendar for your blog and social media.
+- [ ] Have a blog post brainstorming session.
+- [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
+- [ ] Solicit guest posts from early customers and fans of your product.
 - [ ] Build an email list.
 
   ##### Email list building tactics
@@ -191,6 +207,11 @@ Writing blog posts is time-consuming, especially if you're not a big writer, but
   - [ ] Reach back out in a month and try another pitch. Try to become a "regular"
 
 - [ ] Write and distribute an eBook.
+- [ ] Add your latest blog post or landing page to your email signature.
+- [ ] Create and distribute a [Slideshare](https://www.slideshare.net/) or [Prezi](https://prezi.com/) of your blog posts.
+- [ ] Leave non-spammy comments on blog posts related to your industry or product.
+- [ ] Join and participate in forums related to your product or industry.
+- [ ] Standardize your call to action across social and on-site channels.
 
 ### Other
 If it doesn't fit into one of the above categories I'm putting it here. As this document improves we may create new categories or rehash existing ones.
