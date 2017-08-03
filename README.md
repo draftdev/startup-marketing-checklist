@@ -9,6 +9,7 @@ I've been building little software side projects for years, but I've always been
 
 In this repo, I keep a list of the side project marketing tactics and ideas I've picked up from reading sites like [Indie Hackers](https://www.indiehackers.com/), [Hacker News](https://news.ycombinator.com/), and [Reddit](https://www.reddit.com/) as well as random books and blog posts. For each of my side projects, I fork this repository and keep a list of what I have done and still need to do. This keeps my marketing efforts more focused, and if anyone else finds it useful, they can make their own fork with their own ideas.
 
+![](banner.jpg)
 
 ## How to use
 
