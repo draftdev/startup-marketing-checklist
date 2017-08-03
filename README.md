@@ -9,7 +9,6 @@ I've been building little software side projects for years, but I've always been
 
 In this repo, I keep a list of the side project marketing tactics and ideas I've picked up from reading sites like [Indie Hackers](https://www.indiehackers.com/), [Hacker News](https://news.ycombinator.com/), and [Reddit](https://www.reddit.com/) as well as random books and blog posts. For each of my side projects, I fork this repository and keep a list of what I have done and still need to do. This keeps my marketing efforts more focused, and if anyone else finds it useful, they can make their own fork with their own ideas.
 
-![](banner.jpg)
 
 ## How to use
 
@@ -29,7 +28,9 @@ This list is meant to be **as comprehensive as possible**. Your job is to **narr
 If you have ideas that I _haven't_ included or you think you could improve the list, please see the [Contributing](#contributing) section below. I'm not a marketing professional so I welcome any and all feedback.
 
 
-## Categories
+![](banner.jpg)
+
+## Index
 
 - [Market Research](#market-research)
 - [Cold Outreach](#cold-outreach)
@@ -38,7 +39,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
 - [Content Marketing](#content-marketing)
 - [Other](#other)
 
-### Market Research
+## Market Research
 
 > _If we knew what were doing it wouldn’t be called research._ - Albert Einstein
 
@@ -71,7 +72,7 @@ Learning more about your market, competition, and customers helps inform the way
 - [ ] Set up website/app analytics to learn about who signs up, bounces, etc.
 - [ ] Run a customer poll (can also generate content for your blog or social media channels).
 
-### Cold Outreach
+## Cold Outreach
 
 > _You should be talking to a small number of users who are seriously interested in what you’re making, not a broad audience who are on the whole indifferent._ - Jessica Livingston, Founding Partner at Y Combinator
 
@@ -97,7 +98,7 @@ I hate doing cold outreach because it can feel so spammy, but let's be honest, i
 
 - [ ] Ask your customers for feedback directly (individual outreach).
 
-### Free Promotional Channels
+## Free Promotional Channels
 
 > _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
 
@@ -128,7 +129,7 @@ These are sites and places you can promote your product for free...well, except 
 - [ ] Make platform invite-only to start.
 - [ ] Offer free/discounted access for early adopters/beta testers.
 
-### Paid Promotional Channels
+## Paid Promotional Channels
 
 > _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
 
@@ -158,7 +159,7 @@ Here are sites and services that will help you promote your product for a price.
 - [ ] Sponsor podcasts your customers might be listening to.
 - [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
 
-### Content Marketing
+## Content Marketing
 
 > _Content Marketing is all the marketing that’s left._ - Seth Godin
 
@@ -260,7 +261,7 @@ Writing blog posts is time-consuming, especially if you're not a big writer, but
 - [ ] Leave non-spammy comments on blog posts related to your industry or product.
 - [ ] Join and participate in forums related to your product or industry.
 
-### Other
+## Other
 
 If it doesn't fit into one of the above categories I'm putting it here. As this document improves we may create new categories or rehash existing ones.
 
@@ -274,6 +275,8 @@ If it doesn't fit into one of the above categories I'm putting it here. As this 
   ##### Pricing ideas
   - [ ] Create a free or trial tier for your paid product.
   - [ ] Offer a 100% satisfaction/money-back guarantee.
+
+-----
 
 ## Contributing
 
