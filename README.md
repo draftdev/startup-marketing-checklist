@@ -1,6 +1,6 @@
 # Side Project Marketing
 
-Marketing tactics for promoting your side project.
+A checklist of tactics for marketing your side projects. 
 
 
 ## Why?
