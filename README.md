@@ -50,7 +50,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
 - [Recurring](#recurring)
   - [Blogging](#blogging)
   - [Email](#email)
-  - [Social Media](#blogging)
+  - [Social Media](#social-media)
   - [Public Relations](#public-relations)
   - [External Sites](#external-sites)
 - [Optimize](#optimize)
