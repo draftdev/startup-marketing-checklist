@@ -29,7 +29,7 @@ Finally, **the list is ordered in chronological order**. Things you will do befo
 
 If you have ideas that I _haven't_ included or you think you could improve the list, please see the [Contributing](#contributing) section below. I'm not a marketing professional so I welcome any and all feedback!
 
-![](banner.jpg)
+[![](banner.jpg)](marketing-checklist.md)
 
 
 ## Index
@@ -54,6 +54,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
   - [External Sites](marketing-checklist.md#external-sites)
 - [Optimize](marketing-checklist.md#optimize)
 
+[See the whole list](marketing-checklist.md)
 
 ## Contributing
 
