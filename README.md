@@ -38,11 +38,10 @@ If you have ideas that I _haven't_ included or you think you could improve the l
   - [Market Research](marketing-checklist.md#market-research)
     - [Competitive Landscape](marketing-checklist.md#competitive-landscape)
     - [Customer Research](marketing-checklist.md#customer-research)
-    - [PR Preparations](marketing-checklist.md#pr-preparations)
-  - [Content](marketing-checklist.md#content)
-    - [Landing Page](marketing-checklist.md#landing-page)
-    - [Blog Setup](marketing-checklist.md#blog-setup)
-    - [Social Media Setup](marketing-checklist.md#social-media-setup)
+  - [PR Preparations](marketing-checklist.md#pr-preparations)
+  - [Landing Page](marketing-checklist.md#landing-page)
+  - [Blog Setup](marketing-checklist.md#blog-setup)
+  - [Social Media Setup](marketing-checklist.md#social-media-setup)
 - [Post-Launch](marketing-checklist.md#post-launch)
   - [Customer Outreach](marketing-checklist.md#customer-outreach)
   - [Free Promotional Channels](marketing-checklist.md#free-promotional-channels)
@@ -75,6 +74,8 @@ Below are just a few of the blog posts and resources I've found helpful in compi
 - [Matt McCaffrey's List of Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup/blob/master/README.md)
 - [Tomáš Ondrejka's "Ultimate Startup Marketing Checklist"](https://blog.markgrowth.com/the-ultimate-startup-marketing-checklist-31666bd56e41)
 - ["The Startup Marketing Checklist" by Elie Mourad](https://medium.com/@Elie_1582/the-startup-marketing-checklist-fb6ac43fc5cb)
+- [The Online Marketing Checklist by Visibly Better Marketing](https://trello.com/b/2WfXtByI/the-online-marketing-checklist)
+- [An Epic List of 100 Growth Hacks for Startups by Justin McGill](https://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/)
 
 
 ## License

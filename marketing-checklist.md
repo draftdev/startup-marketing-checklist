@@ -1,5 +1,8 @@
 # Side Project Marketing Checklist
 
+See the [README](README.md) file for instructions on using this checklist.
+
+
 ## Pre-Launch
 
 ### Market Research
@@ -47,18 +50,14 @@
 - [ ] Reach out to your competitors' customers, find out what they like/don't like.
 - [ ] Create an "early access" list for potential future customers.
 
-#### PR Preparations
+### PR Preparations
 
 - [ ] Create list of tech, startup, and industry blogs.
 - [ ] Create list of local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
 - [ ] Create list of local bloggers and journalists in your industry.
 - [ ] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
 
-### Content
-
-> _Content Marketing is all the marketing that’s left._ - Seth Godin
-
-#### Landing Page
+### Landing Page
 
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
@@ -81,6 +80,7 @@
   - [ ] Offer free/discounted access for early adopters/beta testers.
 
 - [ ] Set up email list and signup form.
+- [ ] Create a standard email template for your brand.
 - [ ] Add social media follow links to landing page.
 - [ ] Create transactional emails for when users sign up/purchase.
 - [ ] Set up analytics to learn about who signs up, bounces, etc.
@@ -91,7 +91,9 @@
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
-#### Blog Setup
+### Blog Setup
+
+> _Content Marketing is all the marketing that’s left._ - Seth Godin
 
 - [ ] Choose a blogging platform:
 
@@ -103,12 +105,24 @@
   - [ ] [Squarespace](https://www.squarespace.com/)
   - [ ] [Wordpress.com](https://wordpress.org/)
   
-- [ ] Have a blog post brainstorming session (see this [huge list of ideas from Buffer](https://blog.bufferapp.com/blogpost-ideas)).
+- [ ] Research keywords that you'd like your site/blog to rank for.
+- [ ] Create anchor posts or pages for keywords you'd like to rank for.
+- [ ] Have a blog post brainstorming session:
+  
+  ##### Blog post ideas
+  - Little known features of your product.
+  - Highlight use cases for your product.
+  - Highlight customers who are using your product.
+  - Interview industry specialists.
+  - List of popular sites in your industry (be sure to notify them after you publish it!)
+  - See these lists of ideas from [Buffer](https://blog.bufferapp.com/blogpost-ideas) and [Hubspot](https://blog.hubspot.com/blog/tabid/6307/bid/23973/41-fresh-blog-post-ideas-for-your-company-blog.aspx).
+
 - [ ] Add email signup form or link to all blog posts.
 - [ ] Add social media follow links to all blog posts.
 
-#### Social Media Setup
+### Social Media Setup
 
+- [ ] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
 - [ ] Choose the social media accounts you'll use:
 
   ##### Social media platforms
@@ -121,6 +135,8 @@
   - [ ] YouTube
   
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
+- [ ] Join [Triberr](https://triberr.com/).
+- [ ] Put premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
 
 
 ## Post-Launch
@@ -177,6 +193,9 @@
   - [ ] [StumbleUpon](http://ads.stumbleupon.com/)
   - [ ] [Pinterest](https://ads.pinterest.com/)
   - [ ] [Instagram](https://business.instagram.com/advertising)
+  - [ ] [Launchbit](https://www.launchbit.com/)
+  - [ ] [Izea](https://izea.com/)
+  - [ ] [SponsoredReviews.com](http://www.sponsoredreviews.com/)
 
 - [ ] Commission based advertising
 
@@ -189,16 +208,28 @@
 - [ ] Sponsor podcasts your customers might be listening to.
 - [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
 - [ ] Set up a user referral marketing system (try [this open source app](https://github.com/harrystech/prelaunchr) or [this list of paid apps](https://upcity.com/blog/top-20-referral-marketing-apps-for-business/)).
+- [ ] Run an engagement contest with prizes or free products for winners.
+- [ ] Buy email or lead lists.
 
 
 ## Recurring
 
 ### Blogging
 
+> _Blogging is like work, but without coworkers thwarting you at every turn._ - Scott Adams
+
 - [ ] Build/update publishing calendar for your blog.
 - [ ] Regularly post blog posts on your blog(s).
 - [ ] Solicit guest posts from early customers and fans of your product.
-- [ ] Promote your blog content regularly:
+- [ ] Repurpose existing blog posts:
+
+  ##### Repurposing blog posts
+  - [ ] Record/post video of you reading the post on YouTube.
+  - [ ] Turn posts into a podcast.
+  - [ ] Create an infographic based on the post.
+  - [ ] Create a [Slideshare](https://www.slideshare.net/) or [Prezi](https://prezi.com/) of your post.
+
+- [ ] Promote your blog content:
   
   ##### Blog promotion techniques
   - [ ] Send post to your email list.
@@ -206,14 +237,19 @@
   - [ ] Email friends and relatives, ask them to share if relevant.
   - [ ] Send to other bloggers for feedback, ask to share if they like it.
   - [ ] Add your latest blog post or landing page to your email signature.
-  - [ ] Create and distribute a [Slideshare](https://www.slideshare.net/) or [Prezi](https://prezi.com/) of your blog posts.
 
 ### Email
 
+> _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
+
 - [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
 - [ ] Promote email list on social media.
+- [ ] Send 20 cold emails per week to connect with early customers and get direct feedback.
+- [ ] Send new users a personal email introducing yourself.
 
 ### Social Media
+
+> _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar
 
 - [ ] Set up automated regular social media posts.
 
@@ -224,11 +260,16 @@
   - [ ] [Recurpost](https://recurpost.com/)
 
 - [ ] Join Facebook and Linkedin groups where your product might be beneficial.
+- [ ] Send exclusive offers to LinkedIn/Facebook Group owners.
 - [ ] Join Twitter chats related to your industry/product.
 - [ ] Show what happening "behind the scenes" at your project on social media (eg: pictures of your workspace, in-development features, etc.).
 - [ ] Build/update publishing calendar for social media.
+- [ ] Post blog posts from your blog (or partners' blogs).
+- [ ] Give early users discounts for taking pics with your product.
 
 ### Public Relations
+
+> _The art of publicity is a black art; but it has come to stay, and every year adds to its potency._ – Thomas Paine
 
 - [ ] Ask bloggers with list articles to add your site to their content.
 - [ ] Reach out to small business journals, reporters, bloggers. Inform and ask for coverage.
@@ -256,6 +297,19 @@
   - [ ] [Quora](https://www.quora.com/)
   - [ ] Industry or geographically specific forums
 
+- [ ] Leave comments on Slideshare presentations.
+- [ ] Review industry-related books on Amazon, Goodreads.
+- [ ] Write how-to guides/videos related to your product/industry:
+
+  ##### How-to sites
+  - [ ] [Snapguide](https://snapguide.com/)
+  - [ ] [Guides.co](http://guides.co/)
+  - [ ] [eHow](http://www.ehow.com/write-for-ehow/)
+  - [ ] [Lynda](https://www.lynda.com/)
+  - [ ] [Pluralsight](https://www.pluralsight.com/teach)
+  - [ ] [Skillshare](https://www.skillshare.com/)
+  - [ ] [Udemy](https://www.udemy.com/)
+
 
 ## Optimize
 
@@ -270,54 +324,11 @@
 - [ ] Test your website on multiple platforms, make sure speed is good.
 - [ ] Use [Website Grader](https://website.grader.com/) to pinpoint website improvements.
 - [ ] Create and track weekly traffic and growth goals.
-
-
------
-
-
-## Contributing
-
-As with any open source project, I welcome contributors. Submit an [issue](https://github.com/karllhughes/side-project-marketing/issues) or [pull request](https://github.com/karllhughes/side-project-marketing/pulls) with your improvements or suggestions. All contributors will be fully credited.
-
-### Contributors
-
-Submit a PR to get your name and link listed here.
-
-- [Karl L. Hughes](https://www.karllhughes.com/)
-
-
-## Credits
-
-Below are just a few of the blog posts and resources I've found helpful in compiling this list. I'm no marketer, so be sure to check these people out:
-
-- [ProBlogger's 31 Days to Build a Better Blog](https://problogger.com/31dbbb-workbook/)
-- [Matt McCaffrey's List of Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup/blob/master/README.md)
-- [Tomáš Ondrejka's "Ultimate Startup Marketing Checklist"](https://blog.markgrowth.com/the-ultimate-startup-marketing-checklist-31666bd56e41)
-- ["The Startup Marketing Checklist" by Elie Mourad](https://medium.com/@Elie_1582/the-startup-marketing-checklist-fb6ac43fc5cb)
-
-
-## License
-
-This documentation is offered under the MIT License:
-
-> MIT License
-> 
-> Copyright (c) 2017 Karl L. Hughes
-> 
-> Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-> 
-> The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-> 
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- [ ] Time social media posts and email newsletters to when your audience is most likely to respond.
+- [ ] Make sure each page on your site has a clear call-to-action.
+- [ ] Implement live chat to capture leads and allow them to ask questions ([Intercom](https://www.intercom.com/) seems to be the most popular).
+- [ ] Segment traffic by source and audit conversion rates.
+- [ ] Set up automatic analytics reports to be emailed to you each week.
+- [ ] Experiment with various signup form locations, colors, and sizes.
+- [ ] Add "Exit Intent" popup to your blog/site.
+- [ ] Create an FAQs page.
