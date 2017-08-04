@@ -79,10 +79,7 @@ See the [README](README.md) file for instructions on using this checklist.
   - [ ] Make product invite-only to start.
   - [ ] Offer free/discounted access for early adopters/beta testers.
 
-- [ ] Set up email list and signup form.
-- [ ] Create a standard email template for your brand.
 - [ ] Add social media follow links to landing page.
-- [ ] Create transactional emails for when users sign up/purchase.
 - [ ] Set up analytics to learn about who signs up, bounces, etc.
 
   ##### Analytics platforms
@@ -90,6 +87,20 @@ See the [README](README.md) file for instructions on using this checklist.
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
+
+### Email Setup
+
+- [ ] Set up email address to send and receive emails.
+- [ ] Set up email list and signup form.
+
+  ##### Email list services
+  - [ ] [Mailchimp](https://mailchimp.com/)
+  - [ ] [Mad Mimi](https://madmimi.com/)
+  - [ ] [Constant Contact](https://www.constantcontact.com/home/signup.jsp)
+  - [ ] [FreshMail](https://freshmail.com/)
+
+- [ ] Create a standard email template for your brand.
+- [ ] Create transactional emails for when users sign up/purchase.
 
 ### Blog Setup
 

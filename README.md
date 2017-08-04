@@ -40,6 +40,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
     - [Customer Research](marketing-checklist.md#customer-research)
   - [PR Preparations](marketing-checklist.md#pr-preparations)
   - [Landing Page](marketing-checklist.md#landing-page)
+  - [Email Setup](marketing-checklist.md#email-setup)
   - [Blog Setup](marketing-checklist.md#blog-setup)
   - [Social Media Setup](marketing-checklist.md#social-media-setup)
 - [Post-Launch](marketing-checklist.md#post-launch)
