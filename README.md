@@ -1,6 +1,6 @@
 # Side Project Marketing
 
-A checklist of tactics for marketing your side projects. 
+[A checklist of tactics for marketing your side projects](marketing-checklist.md). 
 
 
 ## Why?
