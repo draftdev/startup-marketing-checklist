@@ -84,6 +84,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their key employees on social media.
 - [ ] Set up [Google News alerts](https://www.google.com/alerts) for competitors.
+- [ ] Set up [Site Alerts](http://sitealerts.com/) for competitors.
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
 
 #### Customer Research
@@ -144,6 +145,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
   - [ ] [Google Analytics](https://analytics.google.com)
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
+  - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
 #### Blog Setup
 
@@ -172,6 +174,7 @@ If you have ideas that I _haven't_ included or you think you could improve the l
   - [ ] Pinterest
   - [ ] Instagram
   - [ ] Snapchat
+  - [ ] YouTube
   
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
 
@@ -203,7 +206,8 @@ If you have ideas that I _haven't_ included or you think you could improve the l
 
 - [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
 - [ ] Write and distribute a Press Release.
-- [ ] Write and distribute an eBook.
+- [ ] Write and distribute an eBook, exchange it for email signup.
+- [ ] Write and distribute a white paper, exchange it for email signup.
 - [ ] Give free access to influential bloggers in the industry.
 - [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
 - [ ] Make sure all blog posts have high quality images.
@@ -319,6 +323,9 @@ If you have ideas that I _haven't_ included or you think you could improve the l
 - [ ] Implement [rich snippets in Google search results](https://developers.google.com/search/docs/guides/mark-up-content).
 - [ ] Collect and show testimonials from your happy users.
 - [ ] Analyze user signup flow ([check out the teardowns here](http://www.useronboard.com/)).
+- [ ] Test your website on multiple platforms, make sure speed is good.
+- [ ] Use [Website Grader](https://website.grader.com/) to pinpoint website improvements.
+- [ ] Create and track weekly traffic and growth goals.
 
 
 -----
@@ -342,6 +349,7 @@ Below are just a few of the blog posts and resources I've found helpful in compi
 - [ProBlogger's 31 Days to Build a Better Blog](https://problogger.com/31dbbb-workbook/)
 - [Matt McCaffrey's List of Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup/blob/master/README.md)
 - [Tomáš Ondrejka's "Ultimate Startup Marketing Checklist"](https://blog.markgrowth.com/the-ultimate-startup-marketing-checklist-31666bd56e41)
+- ["The Startup Marketing Checklist" by Elie Mourad](https://medium.com/@Elie_1582/the-startup-marketing-checklist-fb6ac43fc5cb)
 
 
 ## License
