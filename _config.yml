@@ -1,2 +1,14 @@
-theme: jekyll-theme-cayman
 title: Side Project Marketing Checklist
+email: marketing@portablecto.com
+description: > # this means to ignore newlines until "baseurl:"
+  A comprehensive, chronologically ordered list of marketing tactics and ideas you can try with
+  your next side project.
+baseurl: "/"
+url: "http://sideprojectchecklist.com"
+github_username:  karllhughes/side-project-marketing
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

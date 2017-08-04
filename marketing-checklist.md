@@ -1,3 +1,9 @@
+---
+layout: page
+title: Marketing Checklist
+permalink: /marketing-checklist/
+---
+
 # Side Project Marketing Checklist
 
 See the [README](README.md) file for instructions on using this checklist.

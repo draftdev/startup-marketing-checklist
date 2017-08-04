@@ -80,6 +80,14 @@ Below are just a few of the blog posts and resources I've found helpful in compi
 - [An Epic List of 100 Growth Hacks for Startups by Justin McGill](https://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/)
 
 
+## Local Development
+
+This site is powered by [Jekyll](https://jekyllrb.com/), so if you'd like to run the site locally (and you're using Docker), here are some of the commands you can use:
+
+- Build the site: `docker run --rm -it -v $PWD:/srv/jekyll jekyll/jekyll:latest jekyll build`
+- Serve locally: `docker run --rm -it -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:latest jekyll serve`
+
+
 ## License
 
 This documentation is offered under the MIT License:
