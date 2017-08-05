@@ -1,5 +1,6 @@
-title: Side Project Marketing Checklist
+title: Side Project Marketing
 email: marketing@portablecto.com
+author: Karl Hughes
 description: > # this means to ignore newlines until "baseurl:"
   A comprehensive, chronologically ordered list of marketing tactics and ideas you can try with
   your next side project.
@@ -9,6 +10,20 @@ github_username:  karllhughes/side-project-marketing
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-whiteglass
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+
+permalink: /:year/:title/
+paginate_path: /posts/:num/
+paginate: 5
+comments: false
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/

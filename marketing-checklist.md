@@ -1,13 +1,8 @@
 ---
-layout: page
-title: Marketing Checklist
+layout: checklist_page
+title: The Side Project Marketing Checklist
 permalink: /marketing-checklist/
 ---
-
-# Side Project Marketing Checklist
-
-See the [README](README.md) file for instructions on using this checklist.
-
 
 ## Pre-Launch
 
@@ -328,7 +323,7 @@ See the [README](README.md) file for instructions on using this checklist.
   - [ ] [Udemy](https://www.udemy.com/)
 
 
-## Optimize
+## Optimizations
 
 - [ ] Run a customer poll (can also generate content for your blog or social media channels).
 - [ ] Create another side project to promote your product ([read more](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)).
