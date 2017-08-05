@@ -4,8 +4,8 @@ author: Karl Hughes
 description: > # this means to ignore newlines until "baseurl:"
   A comprehensive, chronologically ordered list of marketing tactics and ideas you can try with
   your next side project.
-baseurl: "/side-project-marketing"
-url: "https://karllhughes.github.io"
+baseurl: "/"
+url: "http://sideprojectchecklist.com"
 
 # Build settings
 markdown: kramdown
