@@ -1,0 +1,71 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% assign title = page.title | default: site.title | escape %}
+  {% assign canonical = page.url | replace:'index.html','' | absolute_url %}
+  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | escape %}
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  {% if page.keywords %}
+    {% if page.keywords.first %}
+      {% assign keywords = page.keywords | join: ',' %}
+    {% else %}
+      {% assign keywords = page.keywords %}
+    {% endif %}
+    <meta name="keywords" content="{{ keywords }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ canonical }}">
+  {% assign feed_path = "/feed.xml" %}
+  {% if site.feed and site.feed.path %}
+    {% assign feed_path = site.feed.path %}
+  {% endif %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ feed_path | absolute_url }}">
+
+  {% include head_custom.html %}
+
+  {% if site.facebook_app_id %}
+    <meta property="fb:admins" content="{{ site.facebook_app_id }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:site_name" content="{{ site.title | escape }}">
+    <meta property="og:url" content="{{ canonical }}">
+    <meta property="og:description" content="{{ description }}">
+    {% if site.facebook_page %}<meta property="article:author" content="{{ site.facebook_page }}">{% endif %}
+    {% if page.facebook.image %}
+      <meta property="og:image" content="{{ page.facebook.image }}">
+    {% elsif site.facebook_image %}
+      <meta property="og:image" content="{{ site.facebook_image }}">
+    {% endif %}
+  {% endif %}
+  <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
+  {% if site.twitter_username %}<meta name="twitter:site" content="{{ site.twitter_username }}">{% endif %}
+  <meta name="twitter:title" content="{{ title | truncate: 70 }}">
+  <meta name="twitter:description" content="{{ description | truncate: 200 }}">
+  {% if page.twitter_card.creator %}
+    <meta name="twitter:creator" content="{{ page.twitter_card.creator }}">
+  {% elsif site.twitter_username %}
+    <meta name="twitter:creator" content="{{ site.twitter_username }}">
+  {% endif %}
+  {% if page.twitter_card.image %}
+    {% if page.twitter_card.type == 'gallery' %}
+      <meta name="twitter:image0" content="{{ page.twitter_card.image }}">
+      <meta name="twitter:image1" content="{{ page.twitter_card.image1 }}">
+      <meta name="twitter:image2" content="{{ page.twitter_card.image2 }}">
+      <meta name="twitter:image3" content="{{ page.twitter_card.image3 }}">
+    {% else %}
+      <meta name="twitter:image:src" content="{{ page.twitter_card.image }}">
+      {% if page.twitter_card.type == 'photo' %}
+        {% if page.twitter_card.width %}<meta name="twitter:image:width" content="{{ page.twitter_card.width }}">{% endif %}
+        {% if page.twitter_card.height %}<meta name="twitter:image:height" content="{{ page.twitter_card.height }}">{% endif %}
+      {% endif %}
+    {% endif %}
+  {% elsif site.twitter_image %}
+    <meta name="twitter:image:src" content="{{ site.twitter_image }}">
+  {% endif %}
+
+  {% include fonts.html %}
+  {% include google_analytics.html %}
+</head>
