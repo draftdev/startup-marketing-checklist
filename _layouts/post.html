@@ -16,12 +16,6 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.comments != false and page.comments != false %}
-  <div class="post-comments" itemprop="comment">
-    {% include custom_comments_provider.html %}
-  </div>
-  {% endif %}
-
 </article>
 
 {% include signup_1.html %}
