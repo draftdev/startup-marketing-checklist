@@ -1,6 +1,6 @@
 # Side Project Marketing
 
-[![](banner.jpg)](marketing-checklist.md)
+[![](https://i.imgur.com/uZJHDXL.jpg)](marketing-checklist.md)
 
 
 ## Why?
