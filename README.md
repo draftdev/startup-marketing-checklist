@@ -1,6 +1,6 @@
 # Side Project Marketing
 
-[![](https://i.imgur.com/uZJHDXL.jpg)](marketing-checklist.md)
+[![](https://i.imgur.com/uZJHDXL.jpg)](https://www.sideprojectchecklist.com/)
 
 
 ## Why?
@@ -18,15 +18,17 @@ I've been building little software side projects for years, but I've always been
 
 4. Profit? I mean, that's the goal, right?
 
+The checklist and companion blog posts are also available online at [sideprojectchecklist.com](https://www.sideprojectchecklist.com/).
+
 
 ## Contributing
 
-See [contributing.md](contributing.md).
+See the [Contributing page](https://www.sideprojectchecklist.com/contributing/).
 
 
 ## Credits
 
-See the [resources page](resources.md).
+See the [resources page](https://www.sideprojectchecklist.com/resources/).
 
 
 ## Local Development
