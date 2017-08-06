@@ -1,16 +1,14 @@
 # Side Project Marketing
 
-[A checklist of tactics for marketing your side projects](marketing-checklist.md). 
+[![](https://i.imgur.com/uZJHDXL.jpg)](marketing-checklist.md)
 
 
 ## Why?
 
 I've been building little software side projects for years, but I've always been terrible at marketing them. I come up with some ideas, forget those ideas, do some random stuff, then lose interest. The goal of this repository is to fix that.
 
-In this repo, I keep a list of the side project marketing tactics and ideas I've picked up from reading sites like [Indie Hackers](https://www.indiehackers.com/), [Hacker News](https://news.ycombinator.com/), and [Reddit](https://www.reddit.com/) as well as random books and blog posts. For each of my side projects, I fork this repository and keep a list of what I have done and still need to do. This keeps my marketing efforts more focused, and if anyone else finds it useful, they can make their own fork with their own ideas.
 
-
-## How to use
+## Quickstart
 
 1. Copy the [marketing-checklist.md](marketing-checklist.md) file or [fork this repository](https://github.com/karllhughes/side-project-marketing).
 
@@ -21,63 +19,22 @@ In this repo, I keep a list of the side project marketing tactics and ideas I've
 4. Profit? I mean, that's the goal, right?
 
 
-## Organization
-
-This list is meant to be **as comprehensive as possible**. Your job is to **narrow down what works and what doesn't** for your project. This list also does not attempt to teach you *how* to do most of these things - that's something you'll have to research on your own - but the list stays focused on simple descriptions of tasks you can do to market your side project or startup.
-
-Finally, **the list is ordered in chronological order**. Things you will do before your product launch are typically at the top of the list and things you will do later show up at the bottom.
-
-If you have ideas that I _haven't_ included or you think you could improve the list, please see the [Contributing](#contributing) section below. I'm not a marketing professional so I welcome any and all feedback!
-
-[![](banner.jpg)](marketing-checklist.md)
-
-
-## Index
-
-- [Pre-Launch](marketing-checklist.md#pre-launch)
-  - [Market Research](marketing-checklist.md#market-research)
-    - [Competitive Landscape](marketing-checklist.md#competitive-landscape)
-    - [Customer Research](marketing-checklist.md#customer-research)
-  - [PR Preparations](marketing-checklist.md#pr-preparations)
-  - [Landing Page](marketing-checklist.md#landing-page)
-  - [Email Setup](marketing-checklist.md#email-setup)
-  - [Blog Setup](marketing-checklist.md#blog-setup)
-  - [Social Media Setup](marketing-checklist.md#social-media-setup)
-- [Post-Launch](marketing-checklist.md#post-launch)
-  - [Customer Outreach](marketing-checklist.md#customer-outreach)
-  - [Free Promotional Channels](marketing-checklist.md#free-promotional-channels)
-  - [Paid Promotional Channels](marketing-checklist.md#paid-promotional-channels)
-- [Recurring](marketing-checklist.md#recurring)
-  - [Blogging](marketing-checklist.md#blogging)
-  - [Email](marketing-checklist.md#email)
-  - [Social Media](marketing-checklist.md#social-media)
-  - [Public Relations](marketing-checklist.md#public-relations)
-  - [External Sites](marketing-checklist.md#external-sites)
-- [Optimize](marketing-checklist.md#optimize)
-
-[See the whole list](marketing-checklist.md)
-
 ## Contributing
 
-As with any open source project, I welcome contributors. Submit an [issue](https://github.com/karllhughes/side-project-marketing/issues) or [pull request](https://github.com/karllhughes/side-project-marketing/pulls) with your improvements or suggestions. All contributors will be fully credited.
-
-### Contributors
-
-Submit a PR to get your name and link listed here.
-
-- [Karl L. Hughes](https://www.karllhughes.com/)
+See [contributing.md](contributing.md).
 
 
 ## Credits
 
-Below are just a few of the blog posts and resources I've found helpful in compiling this list. I'm no marketer, so be sure to check these people out:
+See the [resources page](resources.md).
 
-- [ProBlogger's 31 Days to Build a Better Blog](https://problogger.com/31dbbb-workbook/)
-- [Matt McCaffrey's List of Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup/blob/master/README.md)
-- [Tomáš Ondrejka's "Ultimate Startup Marketing Checklist"](https://blog.markgrowth.com/the-ultimate-startup-marketing-checklist-31666bd56e41)
-- ["The Startup Marketing Checklist" by Elie Mourad](https://medium.com/@Elie_1582/the-startup-marketing-checklist-fb6ac43fc5cb)
-- [The Online Marketing Checklist by Visibly Better Marketing](https://trello.com/b/2WfXtByI/the-online-marketing-checklist)
-- [An Epic List of 100 Growth Hacks for Startups by Justin McGill](https://www.searchenginejournal.com/epic-list-100-growth-hacks-startups/118690/)
+
+## Local Development
+
+This site is powered by [Jekyll](https://jekyllrb.com/), so if you'd like to run the site locally (and you're using Docker), here are some of the commands you can use:
+
+- Build the site: `docker run --rm -it -v $PWD:/srv/jekyll jekyll/jekyll:latest jekyll build`
+- Serve locally: `docker run --rm -it -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:latest jekyll serve`
 
 
 ## License

@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Why Side Projects Need Marketing"
+date:   2017-08-04
+author: Karl Hughes
+categories:
+  - use cases
+---
+
+How many of your side projects have died because you never got any user traction?
+
+The answer for me was most of them, and it wasn't because the project or idea was bad. My projects never got off the ground because **I sucked at marketing them.**
+
+![](https://i.imgur.com/LXLIrOI.jpg)
+
+### Expect to Spend as Much Time Marketing as You Do Creating
+
+I have worked at startups for years, so I knew that marketing was half the battle for small businesses, but for some reason I always assumed that my side projects were different. I had read stories of [pet projects taking off from viral posts on Hacker News](https://news.ycombinator.com/item?id=2051288), and thought that maybe if I submitted my work to a few sites, I'd strike gold too.
+
+The truth is that **marketing is a long-distance race.** You have to have an arsenal of marketing ideas at your disposal, and you have to **consistently deploy them for months or years** in order to get noticed. Even then, it's not a sure thing, but by gaining a few early users you can learn how to tweak your products. These product tweaks will lead to your biggest gains in traction.
+
+It's frustrating to spend weeks or months creating a kick-ass new service or website and never get any traction because you're not good at promoting it. I'm finally realizing this, and realizing that marketing my side projects is where I should spend at least half my time.
+
+### That's why I compiled the [side project marketing checklist](/marketing-checklist).
+
+[This checklist](/marketing-checklist) is meant to be **as comprehensive as possible**. If you use it, your job is to **narrow down what works and what doesn't** for your project. I'm not attempting to teach you *how* to do most of these things - although I'll share some tips I learn on this blog - but the list stays focused on simple descriptions of tasks you can do to market your side project or startup.
+
+Finally, **the list is ordered in chronological order**. Things you will do before your product launch are typically at the top of the list and things you will do later show up at the bottom. You can customize the order to your liking, but hopefully this is a good starting point.
+
+If you're interested in learning more, I've also written a post about [how I use this list]({% post_url 2017-08-05-how-to-use %}) to market this very site. As always, let me hear your feedback on [Github](https://github.com/karllhughes/side-project-marketing)!

@@ -1,0 +1,218 @@
+/**
+ * Site header
+ */
+.site-header {
+  min-height: 56px;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+.site-nav {
+  float: right;
+  line-height: 56px;
+
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  @include media-query($on-palm) {
+    .page-link {
+      padding: 20px 0;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  }
+}
+
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+  padding: $spacing-unit 0;
+  font-size: 15px;
+  color: $grey-color;
+  text-align: center;
+}
+
+
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+}
+
+.page-heading {
+  font-size: 20px;
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  .post-link:hover {
+    text-decoration: none;
+  }
+
+  > li {
+    margin-bottom: $spacing-unit * 2;
+
+    &:not(:first-child) {
+      border-top: 4px solid $grey-color-light;
+      padding-top: $spacing-unit * 2;
+    }
+  }
+}
+
+.post-archives {
+  margin-left: 0;
+  list-style: none;
+
+  .post-link {
+    font-size: 24px;
+  }
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-link {
+  &,
+  &:visited {
+    color: $text-color;
+  }
+
+  &:hover {
+    color: $brand-color;
+  }
+}
+
+.post-continue {
+  a {
+    padding: 8px 15px;
+    text-decoration: none;
+
+    &,
+    &:visited {
+      color: $grey-color;
+      background-color: $grey-color-light;
+    }
+
+    &:hover {
+      color: white;
+      background-color: $brand-color;
+    }
+  }
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    font-size: 36px;
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h2 {
+    font-size: 32px;
+
+    @include media-query($on-laptop) {
+      font-size: 28px;
+    }
+  }
+
+  h3 {
+    font-size: 26px;
+
+    @include media-query($on-laptop) {
+      font-size: 22px;
+    }
+  }
+
+  h4 {
+    font-size: 20px;
+
+    @include media-query($on-laptop) {
+      font-size: 18px;
+    }
+  }
+}
+
+
+
+/**
+ * Pagination
+ */
+.pagination {
+  padding: $spacing-unit / 2 0;
+  border-top: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-light;
+  text-align: center;
+  @extend %clearfix;
+
+  a {
+    &,
+    &:visited {
+      color: $grey-color;
+    }
+
+    &:hover {
+      color: $brand-color;
+    }
+  }
+
+  .previous {
+    float: left;
+  }
+
+  .next {
+    float: right;
+  }
+}
