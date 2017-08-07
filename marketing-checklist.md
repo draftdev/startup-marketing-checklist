@@ -100,6 +100,7 @@ permalink: /marketing-checklist/
   - [ ] [Mad Mimi](https://madmimi.com/)
   - [ ] [Constant Contact](https://www.constantcontact.com/home/signup.jsp)
   - [ ] [FreshMail](https://freshmail.com/)
+  - [ ] [Buttondown](https://buttondown.email)
 
 - [ ] Create a standard email template for your brand.
 - [ ] Create transactional emails for when users sign up/purchase.
