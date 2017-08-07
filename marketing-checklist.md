@@ -20,6 +20,8 @@ permalink: /marketing-checklist/
   - [ ] [AngelList](https://angel.co/)
   - [ ] [Product Hunt](https://www.producthunt.com/)
   - [ ] [SimilarSites](http://www.similarsites.com/)
+  - [ ] [SimilarWeb](https://www.similarweb.com/)
+  - [ ] [Sitegur](http://sitegur.com/)
   
   ##### Competitor data to collect
   - [ ] Link to their website.
