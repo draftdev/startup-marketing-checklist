@@ -114,6 +114,7 @@ permalink: /marketing-checklist/
 - [ ] Choose a blogging platform:
 
   ##### Blogging platforms
+  - [ ] [ButterCMS](https://buttercms.com)
   - [ ] [Linkedin](https://www.linkedin.com/post/new)
   - [ ] [Medium](https://medium.com/new-story)
   - [ ] [Tumblr](https://www.tumblr.com/)
