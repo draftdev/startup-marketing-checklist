@@ -11,6 +11,10 @@ As with any open source project, we welcome contributors! Submit an [issue](http
 Submit a PR to get your name and link listed here!
 
 - [Karl Hughes](https://www.karllhughes.com/)
+- [Steve Sanders](http://stevendsanders.com/)
+- [Jake Lumetta](http://jakelumetta.com)
+- [Justin Duke](http://jmduke.com)
+- [Alex Pankratov](http://swapped.cc)
 
 ### Code of Conduct
 
