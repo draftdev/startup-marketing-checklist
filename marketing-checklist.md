@@ -99,11 +99,11 @@ permalink: /marketing-checklist/
 - [ ] Set up email list and signup form.
 
   ##### Email list services
-  - [ ] [Mailchimp](https://mailchimp.com/)
-  - [ ] [Mad Mimi](https://madmimi.com/)
+  - [ ] [Buttondown](https://buttondown.email)
   - [ ] [Constant Contact](https://www.constantcontact.com/home/signup.jsp)
   - [ ] [FreshMail](https://freshmail.com/)
-  - [ ] [Buttondown](https://buttondown.email)
+  - [ ] [Mad Mimi](https://madmimi.com/)
+  - [ ] [Mailchimp](https://mailchimp.com/)
   - [ ] [Mailjet](https://www.mailjet.com/)
 
 - [ ] Create a standard email template for your brand.
