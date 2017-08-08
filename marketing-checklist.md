@@ -73,6 +73,7 @@ permalink: /marketing-checklist/
   - [ ] [Rocketpages](http://www.rocketpages.net/)
   - [ ] [Launchrock](https://www.launchrock.com/)
   - [ ] [Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+  - [ ] [Carrd](https://carrd.co/)
 
 - [ ] Create "About" and "Contact" pages.
 - [ ] Create pricing page:
