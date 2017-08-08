@@ -205,7 +205,6 @@ permalink: /marketing-checklist/
   - [ ] [Linkedin](https://business.linkedin.com/marketing-solutions/ads)
   - [ ] [Facebook](https://www.facebook.com/business/products/ads)
   - [ ] [Bing](https://secure.bingads.microsoft.com/)
-  - [ ] [7search](http://7search.com/)
   - [ ] [Twitter](https://ads.twitter.com/)
   - [ ] [StumbleUpon](http://ads.stumbleupon.com/)
   - [ ] [Pinterest](https://ads.pinterest.com/)
