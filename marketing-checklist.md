@@ -104,6 +104,7 @@ permalink: /marketing-checklist/
   - [ ] [Constant Contact](https://www.constantcontact.com/home/signup.jsp)
   - [ ] [FreshMail](https://freshmail.com/)
   - [ ] [Buttondown](https://buttondown.email)
+  - [ ] [Mailjet](https://www.mailjet.com/)
 
 - [ ] Create a standard email template for your brand.
 - [ ] Create transactional emails for when users sign up/purchase.
