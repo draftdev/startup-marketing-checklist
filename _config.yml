@@ -10,6 +10,7 @@ url: "http://sideprojectchecklist.com"
 # Build settings
 markdown: kramdown
 theme: jekyll-whiteglass
+google_analytics: UA-19700764-11
 gems:
   - jekyll-archives
   - jekyll-paginate
