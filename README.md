@@ -33,10 +33,17 @@ See the [resources page](https://www.sideprojectchecklist.com/resources/).
 
 ## Local Development
 
-This site is powered by [Jekyll](https://jekyllrb.com/), so if you'd like to run the site locally (and you're using Docker), here are some of the commands you can use:
+This site is powered by [Jekyll](https://jekyllrb.com/), so if you'd like to run the site locally, here are some of the commands you can use:
 
+### Docker
 - Build the site: `docker run --rm -it -v $PWD:/srv/jekyll jekyll/jekyll:latest jekyll build`
 - Serve locally: `docker run --rm -it -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:latest jekyll serve`
+
+### Without Docker
+- Install bundler: `gem install bundler`
+- Install depdencies: `bundle install`
+- Build the site: `jekyll build`
+- Serve locally: `jekyll serve`
 
 
 ## License
