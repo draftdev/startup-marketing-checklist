@@ -24,3 +24,19 @@ layout: default
 </article>
 
 {% include signup_1.html %}
+
+
+<!-- 
+  using javascript to prevent printing these elements lets us only target the elements on this page and not affect any other layout or include
+ -->
+<script>
+  window.onload = function() {
+    document.getElementsByClassName('site-header')[0].className += " no-print";
+    document.getElementsByClassName('site-footer')[0].className += " no-print";
+    newsletterSignupElements = document.getElementsByClassName('newsletter-signup');
+    
+    for (var i=0; i < newsletterSignupElements.length; i++) {
+      newsletterSignupElements[i].className += " no-print";
+    }
+  };
+</script>

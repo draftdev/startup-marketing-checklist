@@ -47,3 +47,13 @@ $on-laptop:        800px;
 
 // Import partials from the `whiteglass` theme.
 @import "whiteglass";
+
+
+/**
+ * Printing Styles
+ */
+@media print { 
+  .no-print {
+    display: none;
+  }
+}
