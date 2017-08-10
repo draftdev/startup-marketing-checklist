@@ -15,6 +15,7 @@ Submit a PR to get your name and link listed here!
 - [Jake Lumetta](http://jakelumetta.com)
 - [Justin Duke](http://jmduke.com)
 - [Alex Pankratov](http://swapped.cc)
+- [John Rake](http://www.johnmrake.com)
 
 ### Code of Conduct
 
