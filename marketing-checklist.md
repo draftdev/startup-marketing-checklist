@@ -225,7 +225,21 @@ permalink: /marketing-checklist/
 - [ ] Sponsor a local meetup or conference for your target customers.
 - [ ] Sponsor podcasts your customers might be listening to.
 - [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
-- [ ] Set up a user referral marketing system (try [this open source app](https://github.com/harrystech/prelaunchr) or [this list of paid apps](https://upcity.com/blog/top-20-referral-marketing-apps-for-business/)).
+- [ ] Set up a user referral marketing system.
+
+  ##### Referral marketing platforms
+  - [Harry's Prelaunchr (free, open source)](https://github.com/harrystech/prelaunchr)
+  - [CleverTap (offers a free tier)](https://clevertap.com/)
+  - [Expect Referrals](http://expectreferrals.com/pricing/)
+  - [Frederick](https://www.hirefrederick.com/)
+  - [Genius Referrals](http://www.geniusreferrals.com/)
+  - [InviteBox](https://invitebox.com/)
+  - [InviteReferrals](http://www.invitereferrals.com/)
+  - [Referral Candy](https://www.referralcandy.com/)
+  - [Viral Loops](https://viral-loops.com/)
+  - [Girafi](https://girafi.co/)
+  - [Campaigned](https://campaignedapp.com/)
+
 - [ ] Run an engagement contest with prizes or free products for winners.
 - [ ] Buy email or lead lists.
 
