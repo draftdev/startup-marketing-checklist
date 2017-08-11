@@ -359,7 +359,7 @@ permalink: /marketing-checklist/
 - [ ] Time social media posts and email newsletters to when your audience is most likely to respond.
 - [ ] Make sure each page on your site has a clear call-to-action.
 - [ ] Implement live chat to capture leads and allow them to ask questions ([Intercom](https://www.intercom.com/) seems to be the most popular).
-- [ ] Segment traffic by source and audit conversion rates.
+- [ ] Audit and improve your conversion rate (see [this checklist for detailed steps you can take](http://www.conversionchecklist.org/))
 - [ ] Set up automatic analytics reports to be emailed to you each week.
 - [ ] Experiment with various signup form locations, colors, and sizes.
 - [ ] Add "Exit Intent" popup to your blog/site.
