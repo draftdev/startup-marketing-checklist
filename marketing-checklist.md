@@ -74,6 +74,7 @@ permalink: /marketing-checklist/
   - [ ] [Launchrock](https://www.launchrock.com/)
   - [ ] [Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
   - [ ] [Carrd](https://carrd.co/)
+  - [ ] [Landing page inspiration on LandingFolio](http://www.landingfolio.com/)
 
 - [ ] Create "About" and "Contact" pages.
 - [ ] Create pricing page:
@@ -195,6 +196,27 @@ permalink: /marketing-checklist/
   - [ ] [Unsplash](https://unsplash.com/)
   - [ ] [Skuawk](http://skuawk.com/index.html)
   - [ ] [Pexels](https://www.pexels.com/)
+
+- [ ] Create an online course or guide around your product/industry
+
+  ##### Free learning management systems
+  - [Adapt Learning](https://www.adaptlearning.org/)
+  - [Google Open Classroom](https://edu.google.com/openonline/edukit/index.html)
+  - [Moodle](https://moodle.org/)
+  - [Eliademy](https://eliademy.com/)
+  - [Forma LMS](https://www.formalms.org/)
+  - [Canvas](https://www.canvaslms.com/)
+  - [ILIAS](https://www.ilias.de/docu/goto_docu_root_1.html)
+  - [Opigno](https://www.opigno.org/en)
+
+  ##### External course-creation sites
+  - [ ] [Snapguide](https://snapguide.com/)
+  - [ ] [Guides.co](http://guides.co/)
+  - [ ] [eHow](http://www.ehow.com/write-for-ehow/)
+  - [ ] [Lynda](https://www.lynda.com/)
+  - [ ] [Pluralsight](https://www.pluralsight.com/teach)
+  - [ ] [Skillshare](https://www.skillshare.com/)
+  - [ ] [Udemy](https://www.udemy.com/)
 
 ### Paid Promotional Channels
 
@@ -331,16 +353,6 @@ permalink: /marketing-checklist/
 
 - [ ] Leave comments on Slideshare presentations.
 - [ ] Review industry-related books on Amazon, Goodreads.
-- [ ] Write how-to guides/videos related to your product/industry:
-
-  ##### How-to sites
-  - [ ] [Snapguide](https://snapguide.com/)
-  - [ ] [Guides.co](http://guides.co/)
-  - [ ] [eHow](http://www.ehow.com/write-for-ehow/)
-  - [ ] [Lynda](https://www.lynda.com/)
-  - [ ] [Pluralsight](https://www.pluralsight.com/teach)
-  - [ ] [Skillshare](https://www.skillshare.com/)
-  - [ ] [Udemy](https://www.udemy.com/)
 
 
 ## Optimizations
