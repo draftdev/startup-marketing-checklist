@@ -94,6 +94,13 @@ permalink: /marketing-checklist/
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
+- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site.
+
+  ##### On-site Messaging Platforms
+  - [ ] [Reamaze](https://www.reamaze.com/)
+  - [ ] [Autopilot](https://www.autopilothq.com/)
+  - [ ] [Intercom](https://www.intercom.com/)
+
 ### Email Setup
 
 - [ ] Set up email address to send and receive emails.
@@ -370,9 +377,9 @@ permalink: /marketing-checklist/
 - [ ] Create and track weekly traffic and growth goals.
 - [ ] Time social media posts and email newsletters to when your audience is most likely to respond.
 - [ ] Make sure each page on your site has a clear call-to-action.
-- [ ] Implement live chat to capture leads and allow them to ask questions ([Intercom](https://www.intercom.com/) seems to be the most popular).
 - [ ] Audit and improve your conversion rate (see [this checklist for detailed steps you can take](http://www.conversionchecklist.org/))
 - [ ] Set up automatic analytics reports to be emailed to you each week.
 - [ ] Experiment with various signup form locations, colors, and sizes.
 - [ ] Add "Exit Intent" popup to your blog/site.
 - [ ] Create an FAQs page.
+- [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
