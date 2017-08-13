@@ -96,17 +96,10 @@ permalink: /marketing-checklist/
 
 ### Email Setup
 
+*[See this list of email marketing tools](/2017/email-marketing-tools) for services that make managing email easier.*
+
 - [ ] Set up email address to send and receive emails.
 - [ ] Set up email list and signup form.
-
-  ##### Email list services
-  - [ ] [Buttondown](https://buttondown.email)
-  - [ ] [Constant Contact](https://www.constantcontact.com/home/signup.jsp)
-  - [ ] [FreshMail](https://freshmail.com/)
-  - [ ] [Mad Mimi](https://madmimi.com/)
-  - [ ] [Mailchimp](https://mailchimp.com/)
-  - [ ] [Mailjet](https://www.mailjet.com/)
-
 - [ ] Create a standard email template for your brand.
 - [ ] Create transactional emails for when users sign up/purchase.
 
