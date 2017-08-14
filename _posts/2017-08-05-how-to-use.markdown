@@ -12,7 +12,7 @@ I've been trying to make marketing my side projects as simple as checking a few 
  
  The reason I've failed at marketing in the past is that I made it too complicated, so the [side project marketing checklist](/marketing-checklist) I created aims to fix that. Here's how I've been using it to market my side projects:
 
-## 1. I Copy the [checklist](/marketing-checklist) to a new [Github Gist](https://gist.github.com)
+## 1. Copy the [checklist](/marketing-checklist) to a new [Github Gist](https://gist.github.com)
 
 Gists are great because they're just a simple way to store markdown files and you can make checklists in them, share them, and keep a revision history of them. When I started marketing this project, I copied the [raw markdown file of the checklist](https://raw.githubusercontent.com/karllhughes/side-project-marketing/master/marketing-checklist.md) into [a Gist](https://gist.github.com/karllhughes/56153edea80f2c735a0b8f57ff0eba94#file-1-side-project-marketing-checklist-md).
 
