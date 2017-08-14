@@ -14,7 +14,7 @@ Sure, we may spend more time scanning Facebook and Reddit for interesting bits o
 
 ## Email Marketing Tools
 
-<img src="http://i.imgur.com/yAA3TAU.jpg" style="float:right; width: 300px; height: auto; margin-left: 10px;" />
+<img src="https://i.imgur.com/yAA3TAU.jpg" style="float:right; width: 300px; height: auto; margin-left: 10px;" />
 
 The great thing about email marketing tools like these are that **you can start building an audience without a completed product or service.** You don't have to know how to write email-compliant HTML ([which involves lots of tables and is a huge pain](https://www.sitepoint.com/how-to-code-html-email-newsletters/)), you don't have to have an email server, and you (usually) don't have to write any code.
 
