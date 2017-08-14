@@ -8,15 +8,13 @@ categories:
   - email
 ---
 
-<img src="http://i.imgur.com/yAA3TAU.jpg" style="float:right; width: 300px; height: auto; margin-left: 10px;" />
-
-## Why Email?
-
 One of the most effective ways to encourage repeat visitors to your side project, to engage paying customers, and to improve conversion rates is to get people to sign up with their email address.
 
 Sure, we may spend more time scanning Facebook and Reddit for interesting bits of news, but nothing is quite as direct as email marketing. It can also be great for users who want to keep up with your product, but don't want to set a reminder to come back every week and check on it. So, how do you go about building an email list and sending regular updates?
 
 ## Email Marketing Tools
+
+<img src="http://i.imgur.com/yAA3TAU.jpg" style="float:right; width: 300px; height: auto; margin-left: 10px;" />
 
 The great thing about email marketing tools like these are that **you can start building an audience without a completed product or service.** You don't have to know how to write email-compliant HTML ([which involves lots of tables and is a huge pain](https://www.sitepoint.com/how-to-code-html-email-newsletters/)), you don't have to have an email server, and you (usually) don't have to write any code.
 
