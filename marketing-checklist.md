@@ -62,7 +62,7 @@ permalink: /marketing-checklist/
 
 ### Landing Page
 
-*[See this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/) for services that make setting up landing pages faster and easier.*
+*[See this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/) for services that make creating landing pages easier.*
 
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.

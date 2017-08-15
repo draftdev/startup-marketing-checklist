@@ -14,23 +14,45 @@ A good landing page helps visitors quickly determine whether or not your product
 
 ## Landing Page Tools
 
+<img src="https://i.imgur.com/HHoKfhQ.jpg" style="float:right; width: 300px; height: auto; margin-left: 10px;" />
+
 Fortunately, there are many great and easy-to-use landing page generators and tools available. Some require a little knowledge of HTML and CSS, while others are completely non-tech friendly. Try a few of these tools out, and if you've got other landing page creation tools that we missed, please [leave your suggestions in this open issue on Github](https://github.com/karllhughes/side-project-marketing/issues/12).
 
-- **[Unbounce](https://unbounce.com/)**
+- **[Carrd](https://carrd.co/)** - Simple to use and free to get started.
 
-- **[Squarespace](https://www.squarespace.com/)**
+- **[ClickFunnels](https://www.clickfunnels.com/)**
+
+- **[Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)** - If you don't mind writing a little HTML yourself, Jekyll is awesome. It can scale pretty much infinitely and it's free to use with Github pages.
+
+- **[Gitlab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)** - If you prefer Gitlab to Github, this is a good option for landing page generation.
+
+- **[HTML5 UP!](https://html5up.net/)** - Free HTML templates for landing pages.
+
+- **[Instapage](https://instapage.com/)**
+
+- **[Lander](https://landerapp.com/)**
+
+- **[LandingFolio](http://www.landingfolio.com/)** - While LandingFolio isn't a tool for making landing pages, it does have a lot of examples you can use as inspiration for your landing page.
+
+- **[Launchrock](https://www.launchrock.com/)** - Really simple, but kind of limited because of that. Still, Launchrock is a good option when you just want to collect email addresses on a "Coming Soon" page.
+
+- **[Leadpages](https://www.leadpages.net/welcome)**
+
+- **[Neocities](https://neocities.org/)**
+
+- **[ONTRApages](https://ontrapages.com/)**
 
 - **[Rocketpages](http://www.rocketpages.net/)**
 
-- **[Launchrock](https://www.launchrock.com/)**
+- **[Squarespace](https://www.squarespace.com/)** - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
-- **[Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)**
+- **[Thrive Themes](https://thrivethemes.com/)** - If you use Wordpress, Thrive Themes has some great landing-page focused themes.
 
-- **[Carrd](https://carrd.co/)**
+- **[Unbounce](https://unbounce.com/)** - Their editor gives you lots of options, plus they give you some analytics, the ability to A/B test, and much more.
 
-- **[LandingFolio](http://www.landingfolio.com/)** - Inspiration for landing pages.
+- **[Wix](https://www.wix.com/)**
 
-- **[]()**
+- **[Woobox](https://woobox.com/)**
 
 -----
 
