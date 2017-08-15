@@ -62,22 +62,14 @@ permalink: /marketing-checklist/
 
 ### Landing Page
 
+*[See this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/) for services that make setting up landing pages faster and easier.*
+
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
 - [ ] Create a logo.
 - [ ] Set up a landing page.
-
-  ##### Landing page tools
-  - [ ] [Unbounce](https://unbounce.com/)
-  - [ ] [Squarespace](https://www.squarespace.com/)
-  - [ ] [Rocketpages](http://www.rocketpages.net/)
-  - [ ] [Launchrock](https://www.launchrock.com/)
-  - [ ] [Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
-  - [ ] [Carrd](https://carrd.co/)
-  - [ ] [Landing page inspiration on LandingFolio](http://www.landingfolio.com/)
-
 - [ ] Create "About" and "Contact" pages.
-- [ ] Create pricing page:
+- [ ] Create Pricing page:
 
   ##### Pricing ideas
   - [ ] Create a free or trial tier for your paid product.
@@ -103,7 +95,7 @@ permalink: /marketing-checklist/
 
 ### Email Setup
 
-*[See this list of email marketing tools](/2017/email-marketing-tools) for services that make managing email easier.*
+*[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
 
 - [ ] Set up email address to send and receive emails.
 - [ ] Set up email list and signup form.
