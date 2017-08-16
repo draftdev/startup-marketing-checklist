@@ -34,7 +34,12 @@ permalink: /marketing-checklist/
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their key employees on social media.
 - [ ] Set up [Google News alerts](https://www.google.com/alerts) for competitors.
-- [ ] Set up [Site Alerts](http://sitealerts.com/) for competitors.
+- [ ] Monitor competitors' websites for changes.
+  
+  ##### Site monitoring tools
+  - [ ] [Site Alerts](http://sitealerts.com/)
+  - [ ] [Versionista](https://versionista.com/)
+
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
 
 #### Customer Research
