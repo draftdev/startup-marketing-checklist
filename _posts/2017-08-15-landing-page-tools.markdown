@@ -34,6 +34,8 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - **[LandingFolio](http://www.landingfolio.com/)** - While LandingFolio isn't a tool for making landing pages, it does have a lot of examples you can use as inspiration for your landing page.
 
+- **[Launchaco](http://launchaco.com/build/)**
+
 - **[Launchrock](https://www.launchrock.com/)** - Really simple, but kind of limited because of that. Still, Launchrock is a good option when you just want to collect email addresses on a "Coming Soon" page.
 
 - **[Leadpages](https://www.leadpages.net/welcome)**

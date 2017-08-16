@@ -117,7 +117,7 @@ permalink: /marketing-checklist/
   - [ ] [Squarespace](https://www.squarespace.com/)
   - [ ] [Wordpress.com](https://wordpress.org/)
   
-- [ ] Research keywords that you'd like your site/blog to rank for.
+- [ ] Research keywords that you'd like your site/blog to rank for ()
 - [ ] Create anchor posts or pages for keywords you'd like to rank for.
 - [ ] Have a blog post brainstorming session:
   
@@ -189,7 +189,7 @@ permalink: /marketing-checklist/
   - [ ] [Skuawk](http://skuawk.com/index.html)
   - [ ] [Pexels](https://www.pexels.com/)
 
-- [ ] Create an online course or guide around your product/industry
+- [ ] Create an online course or guide around your product/industry.
 
   ##### Free learning management systems
   - [Adapt Learning](https://www.adaptlearning.org/)
@@ -209,6 +209,14 @@ permalink: /marketing-checklist/
   - [ ] [Pluralsight](https://www.pluralsight.com/teach)
   - [ ] [Skillshare](https://www.skillshare.com/)
   - [ ] [Udemy](https://www.udemy.com/)
+
+- [ ] Run a link-building campaign.
+
+  ##### Link building strategies
+  - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
+  - [ ] [Ego baiting](http://pointblankseo.com/egobait-guide)
+  - [ ] Interview/expert Q&A post
+  - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
 
 ### Paid Promotional Channels
 
