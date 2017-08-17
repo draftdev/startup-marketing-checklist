@@ -94,9 +94,11 @@ permalink: /marketing-checklist/
 - [ ] Set up on-site messaging to capture leads and engage customers as they land on your site.
 
   ##### On-site Messaging Platforms
-  - [ ] [Reamaze](https://www.reamaze.com/)
   - [ ] [Autopilot](https://www.autopilothq.com/)
+  - [ ] [Chatra](https://chatra.io/)
+  - [ ] [HelpCrunch](https://helpcrunch.com/)
   - [ ] [Intercom](https://www.intercom.com/)
+  - [ ] [Reamaze](https://www.reamaze.com/)
 
 ### Email Setup
 
