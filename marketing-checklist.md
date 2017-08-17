@@ -96,6 +96,7 @@ permalink: /marketing-checklist/
   ##### On-site Messaging Platforms
   - [ ] [Autopilot](https://www.autopilothq.com/)
   - [ ] [Chatra](https://chatra.io/)
+  - [ ] [Crisp.chat](https://crisp.chat/en/)
   - [ ] [HelpCrunch](https://helpcrunch.com/)
   - [ ] [Intercom](https://www.intercom.com/)
   - [ ] [Reamaze](https://www.reamaze.com/)
