@@ -43,6 +43,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Versionista](https://versionista.com/)
 
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
+- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/))
 
 #### Customer Research
 
@@ -127,7 +128,16 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Squarespace](https://www.squarespace.com/)
   - [ ] [Wordpress.com](https://wordpress.org/)
   
-- [ ] Research keywords that you'd like your site/blog to rank for ()
+- [ ] Research keywords that you'd like your site/blog to rank for.
+
+  ##### Keyword research tools
+  - [SpyFu](https://www.spyfu.com/)
+  - [SEMrush](https://www.semrush.com/)
+  - [KeywordTool.io](http://keywordtool.io/)
+  - [Moz Keyword Explorer](https://moz.com/explorer)
+  - [KWFinder](https://kwfinder.com/)
+  - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
+
 - [ ] Create anchor posts or pages for keywords you'd like to rank for.
 - [ ] Have a blog post brainstorming session:
   
@@ -386,3 +396,4 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Add "Exit Intent" popup to your blog/site.
 - [ ] Create an FAQs page.
 - [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
+- [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).

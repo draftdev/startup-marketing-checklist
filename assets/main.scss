@@ -49,6 +49,33 @@ $on-laptop:        800px;
 @import "whiteglass";
 
 
+// Button styles
+a.btn, .btn {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background: #1d508f;
+  color: #fff;
+  margin-right: 1em; /* remove this while use*/
+  margin-bottom: 1em; /* remove this while use*/
+  display: inline-block;
+  outline: none;
+  *zoom: 1;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 300;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  border: 1px solid;
+  transition: all 0.2s ease;
+  box-sizing: border-box;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.01);
+  border-radius: 3px;
+}
+.btn-large {
+  font-size: 1.0625em;
+  padding: 0.5625em 1.5em;
+  line-height: 36px;
+}
+
 /**
  * Printing Styles
  */
