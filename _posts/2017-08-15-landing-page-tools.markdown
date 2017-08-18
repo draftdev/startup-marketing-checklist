@@ -32,6 +32,8 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - **[Lander](https://landerapp.com/)**
 
+- **[Landing Page Experts](http://landing-page-experts.com/)**
+
 - **[LandingFolio](http://www.landingfolio.com/)** - While LandingFolio isn't a tool for making landing pages, it does have a lot of examples you can use as inspiration for your landing page.
 
 - **[Launchaco](http://launchaco.com/build/)**
@@ -42,7 +44,11 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - **[Neocities](https://neocities.org/)**
 
+- **[Mopro](https://www.mopro.com/)**
+
 - **[ONTRApages](https://ontrapages.com/)**
+
+- **[Reverent Pages](https://www.reverentpages.com/)** - Unlike most options on this list, Reverent is a full-service landing page service rather than a DIY tool.
 
 - **[Rocketpages](http://www.rocketpages.net/)**
 
