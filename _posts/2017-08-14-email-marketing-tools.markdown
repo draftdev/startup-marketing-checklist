@@ -62,6 +62,8 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 
 - **[Mailchimp](https://mailchimp.com/) ([use this link for $30 credit](http://eepurl.com/cMDrn5))** - You may have heard about them in a podcast advertisement, but Mailchimp is great for a number of reasons. Their email template builder is simple to use and they have a [generous free tier for up to 2000 subscribers](https://mailchimp.com/pricing/).
 
+- **[MailGet](https://www.formget.com/mailget-app/)**
+
 - **[Mailgun](https://www.mailgun.com/)** - Mailgun is an api-only email sending tool, so if your service needs to send transactional emails or you prefer writing your emails in [vim](http://www.vim.org/), Mailgun is for you.
 
 - **[Mailjet](https://www.mailjet.com/)**
