@@ -92,4 +92,4 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 
 -----
 
-Did I miss an email marketing tool that you love? Would you like to add a description to one of the product above? Submit a suggestion on [this open Github issue and I'll add it to the list](https://github.com/karllhughes/side-project-marketing/issues/13).
+Did I miss an email marketing tool that you love? Would you like to add a description to one of the products above? Submit a suggestion on [this open Github issue and I'll add it to the list](https://github.com/karllhughes/side-project-marketing/issues/13).
