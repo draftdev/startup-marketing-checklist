@@ -48,3 +48,5 @@ If you'd like to make a contribution, but you're not sure how, here are a few id
 - **Create a new list of similar marketing services.** If you've had the chance to try or evaluate several similar services and you'd like to share your findings, please do. We'd love to hear from you.
 
 Thanks for reading, and I look forward to building the community with you!
+
+![](https://i.imgur.com/oVpnacQ.jpg)

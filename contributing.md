@@ -6,6 +6,8 @@ permalink: /contributing/
 
 As with any open source project, we welcome contributors! Submit an [issue](https://github.com/karllhughes/side-project-marketing/issues) or [pull request](https://github.com/karllhughes/side-project-marketing/pulls) with your improvements or suggestions. All contributors will be fully credited.
 
+For more information on what kind of contributions you can make, check out the [Making a Contribution blog post](/2017/making-a-contribution/).
+
 ### Contributors
 
 Submit a PR to get your name and link listed here!
