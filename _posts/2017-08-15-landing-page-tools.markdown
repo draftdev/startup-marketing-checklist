@@ -32,6 +32,8 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - **[Lander](https://landerapp.com/)**
 
+- **[Landing Lion](https://www.landinglion.com/)**
+
 - **[Landing Page Experts](http://landing-page-experts.com/)**
 
 - **[LandingFolio](http://www.landingfolio.com/)** - While LandingFolio isn't a tool for making landing pages, it does have a lot of examples you can use as inspiration for your landing page.
