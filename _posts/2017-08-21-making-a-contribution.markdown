@@ -7,7 +7,7 @@ categories:
   - contributions
 ---
 
-If you've stumbled on this project from somewhere on the internet, then welcome! While I put the [side project marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/) because I had a hard time marketing my projects, thousands of people have read and shared it, dozens of people have made suggestions for improving the project, and a few have even [helped make changes](https://github.com/karllhughes/side-project-marketing/graphs/contributors). The community is what makes a project like this successful, so I hope that you will help the project improve by making updates and suggestions.
+If you've stumbled on this project from somewhere on the internet, then welcome! While I compiled the [side project marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/) because I had a hard time marketing my projects, thousands of people have read and shared it, dozens of people have made suggestions for improving the project, and a few have even [helped make changes](https://github.com/karllhughes/side-project-marketing/graphs/contributors). The community is what makes a project like this successful, so I hope that you will help the project improve by making updates and suggestions.
 
 If you'd like to make a contribution, but you're not sure how you can help, here are some ideas:
 
