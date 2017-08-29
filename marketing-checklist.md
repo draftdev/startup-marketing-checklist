@@ -183,7 +183,8 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Cold call ~20 people who might be good customers.
 - [ ] Connect with potential customers on Linkedin, reach out when they accept.
 - [ ] Watch a first time user use your product.
-- [ ] Ask your customers for feedback directly (individual outreach).
+- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/blog/2017/survey-tools)).
+- [ ] Collect and display testimonials from happy users.
 - [ ] Run an early-stage cold email campaign.
 
   ##### An early-stage cold email campaign
@@ -383,7 +384,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] A/B test email newsletters and promotions.
 - [ ] Implement [Twitter cards](https://dev.twitter.com/cards/overview) on your blog posts.
 - [ ] Implement [rich snippets in Google search results](https://developers.google.com/search/docs/guides/mark-up-content).
-- [ ] Collect and show testimonials from your happy users.
 - [ ] Analyze user signup flow ([check out the teardowns here](http://www.useronboard.com/)).
 - [ ] Test your website on multiple platforms, make sure speed is good.
 - [ ] Use [Website Grader](https://website.grader.com/) to pinpoint website improvements.
