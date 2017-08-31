@@ -209,6 +209,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Unsplash](https://unsplash.com/)
   - [ ] [Skuawk](http://skuawk.com/index.html)
   - [ ] [Pexels](https://www.pexels.com/)
+  - [ ] [Death to Stock](https://deathtothestockphoto.com/)
 
 - [ ] Create an online course or guide around your product/industry.
 
