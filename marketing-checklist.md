@@ -372,6 +372,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Stack Overflow](https://stackoverflow.com/)
   - [ ] [Quora](https://www.quora.com/)
   - [ ] Industry or geographically specific forums
+  - [ ] [Product Hunt](https://www.producthunt.com/) For more information on how to launch here, [read this](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399).
 
 - [ ] Leave comments on Slideshare presentations.
 - [ ] Review industry-related books on Amazon, Goodreads.
