@@ -19,6 +19,7 @@ Submit a PR to get your name and link listed here!
 - [Alex Pankratov](http://swapped.cc)
 - [John Rake](http://www.johnmrake.com)
 - [Hengwoon](https://github.com/hengwoon)
+- [Andy Sparks](https://github.com/AndySparks)
 
 ### Code of Conduct
 
