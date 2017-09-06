@@ -132,7 +132,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 - [ ] Create anchor posts or pages for keywords you'd like to rank for.
 - [ ] Have a blog post brainstorming session:
-  
+
   ##### Blog post ideas
   - Little known features of your product.
   - Highlight use cases for your product.
@@ -157,7 +157,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] Instagram
   - [ ] Snapchat
   - [ ] YouTube
-  
+
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
 - [ ] Put premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
 
@@ -174,12 +174,12 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Cold call ~20 people who might be good customers.
 - [ ] Connect with potential customers on Linkedin, reach out when they accept.
 - [ ] Watch a first time user use your product.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/blog/2017/survey-tools)).
+- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
 - [ ] Collect and display testimonials from happy users.
 - [ ] Run an early-stage cold email campaign.
 
   ##### An early-stage cold email campaign
-  - [ ] Make a list of 30 prospective early customers' email addresses.
+  - [ ] Make a list of 30 prospective early customers' email addresses (Find email addresses with a tool like [Hunter](https://hunter.io/)).
   - [ ] Send three cold emails per day for ten days. Experiment with messaging, take note of what works.
   - [ ] Send three follow up emails per day for ten days. Experiment with messaging, take note of what works.
   - [ ] Scale it up. Find more prospects, set up an automated drip campaign, rinse and repeat every month.
@@ -390,3 +390,4 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Create an FAQs page.
 - [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
+- [ ] See how your logo does on [Logo Rank](http://brandmark.io/logo-rank/).
