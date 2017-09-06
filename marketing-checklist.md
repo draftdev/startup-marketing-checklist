@@ -94,15 +94,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
-- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site.
-
-  ##### On-site Messaging Platforms
-  - [ ] [Autopilot](https://www.autopilothq.com/)
-  - [ ] [Chatra](https://chatra.io/)
-  - [ ] [Crisp.chat](https://crisp.chat/en/)
-  - [ ] [HelpCrunch](https://helpcrunch.com/)
-  - [ ] [Intercom](https://www.intercom.com/)
-  - [ ] [Reamaze](https://www.reamaze.com/)
+- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools))
 
 ### Email Setup
 
@@ -167,7 +159,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] YouTube
   
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
-- [ ] Join [Triberr](https://triberr.com/).
 - [ ] Put premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
 
 

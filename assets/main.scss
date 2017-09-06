@@ -77,6 +77,26 @@ a.btn, .btn {
 }
 
 /**
+ * Featured banners
+ */
+.featured:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.featured img {
+  float: left;
+  margin: 0 10px 10px 0;
+  width: 130px;
+  height: auto;
+}
+.featured p {
+  padding-top: 20px;
+}
+
+/**
  * Printing Styles
  */
 @media print { 

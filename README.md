@@ -3,6 +3,11 @@
 [![](https://i.imgur.com/uZJHDXL.jpg)](https://www.sideprojectchecklist.com/)
 
 
+## What
+
+The [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and open source.
+
+
 ## Why?
 
 I've been building little software side projects for years, but I've always been terrible at marketing them. I come up with some ideas, forget those ideas, do some random stuff, then lose interest. The goal of this repository is to fix that.

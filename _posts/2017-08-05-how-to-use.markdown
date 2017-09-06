@@ -4,8 +4,8 @@ title:  "How to Use the Side Project Marketing Checklist"
 date:   2017-08-05
 author: Karl Hughes
 categories:
-  - tutorials
-  - use cases
+  - updates
+  - guides
 ---
 
 I've been trying to make marketing my side projects as simple as checking a few boxes off a list every week. While I realize that this isn't going to make my side projects market leaders, it is a **lean way to build traction and gain users.**

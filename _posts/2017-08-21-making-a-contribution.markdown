@@ -4,7 +4,8 @@ title:  "Contributing to the Side Project Marketing Checklist"
 date:   2017-08-21
 author: Karl Hughes
 categories:
-  - contributions
+  - guides
+  - updates
 ---
 
 If you've stumbled on this project from somewhere on the internet, then welcome! While I compiled the [side project marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/) because I had a hard time marketing my projects, thousands of people have read and shared it, dozens of people have made suggestions for improving the project, and a few have even [helped make changes](https://github.com/karllhughes/side-project-marketing/graphs/contributors). The community is what makes a project like this successful, so I hope that you will help the project improve by making updates and suggestions.

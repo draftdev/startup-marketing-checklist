@@ -4,7 +4,7 @@ title:  "Why Side Projects Need Marketing"
 date:   2017-08-04
 author: Karl Hughes
 categories:
-  - use cases
+  - updates
 ---
 
 How many of your side projects have died because you never got any user traction?

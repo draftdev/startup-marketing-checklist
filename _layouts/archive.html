@@ -21,6 +21,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
         </h2>
+        <div class="post-content">
+          {{ post.excerpt }}
+        </div>
       </li>
     {% endfor %}
   </ul>
