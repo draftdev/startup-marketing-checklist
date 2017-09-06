@@ -4,7 +4,7 @@ title: The Side Project Marketing Checklist
 permalink: /marketing-checklist/
 ---
 
-The Side Project Marketing Checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/blog/2017/making-a-contribution).
+The Side Project Marketing Checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/2017/making-a-contribution).
 
 ## Pre-Launch
 
