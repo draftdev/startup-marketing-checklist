@@ -31,6 +31,8 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 - **[Freshchat](https://www.freshchat.io/)** - Also offers a free tier plus personalized and targeted messages.
 
+- **[Gitter Sidecar](https://sidecar.gitter.im/)** - Gitter is a developer community chat platform, but they also have a javascript widget that you can use as on-site chat.
+
 - **[HelpCrunch](https://helpcrunch.com/)** - Messaging integrates into their complete customer-service solution.
 
 - **[Instream](http://instream.io/en/)** - Chat can be great for gathering leads who aren't ready to commit their email address. Instream lets you start gathering this data right away.

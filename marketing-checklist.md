@@ -75,6 +75,14 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
 - [ ] Create a logo.
+
+  ##### Logo creation tools
+  - [ ] The Logo Company ([10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
+  - [ ] [LogoFox](https://logofox.co/form/name)
+  - [ ] [The Noun Project](https://thenounproject.com/)
+  - [ ] [FlatIcon](https://www.flaticon.com/)
+  - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
+  
 - [ ] Set up a landing page.
 - [ ] Create "About" and "Contact" pages.
 - [ ] Create Pricing page:
@@ -390,4 +398,3 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Create an FAQs page.
 - [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
-- [ ] See how your logo does on [Logo Rank](http://brandmark.io/logo-rank/).
