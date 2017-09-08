@@ -191,6 +191,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] Send three cold emails per day for ten days. Experiment with messaging, take note of what works.
   - [ ] Send three follow up emails per day for ten days. Experiment with messaging, take note of what works.
   - [ ] Scale it up. Find more prospects, set up an automated drip campaign, rinse and repeat every month.
+  - [ ] There's also a [really comprehensive how-to article here](https://originalstitch.com/blog/automating-cold-emails-with-no-coding-your-software-development-project-plan).
 
 ### Free Promotional Channels
 

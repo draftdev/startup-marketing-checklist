@@ -23,6 +23,8 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 - **[Autopilot](https://autopilothq.com/)** - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
 
+- **[Chat.io](https://www.chat.io)** — Has a Facebook integration that lets you handle Messenger conversations along with chats from website in one app. $10/month with a 14-day free trial.
+
 - **[Chatra](https://chatra.io/)** - You can either wait for visitors to ask you questions or proactively engage them on your sales pages.
 
 - **[Crisp.chat](https://crisp.chat/en/)** - Crisp offers a free tier for small businesses with just one or two customer service reps, so this could be perfect for a side project just getting started.
@@ -42,6 +44,8 @@ To help you get started, we've created this comprehensive list of customer chat 
 - **[JetLink](https://jetlink.io)** - Supplement your customer service with smart chatbots that can cut down on the amount of time you spend answering common questions.
 
 - **[JivoSite](https://www.jivochat.com/)** - Includes a free tier for up to five agents. It also integrates with Facebook messenger if your customers happen to be there as well.
+
+- **[LiveChat Inc](https://www.livechatinc.com)** — Full featured customer service chat with tickets system. It's cheaper than Intercom and has 30-day free trial.
 
 - **[LivePerson](https://www.liveperson.com/)** - LivePerson is more geared towards enterprise customers, but it's worth looking at. Their plans currently start at $40/month.
 
