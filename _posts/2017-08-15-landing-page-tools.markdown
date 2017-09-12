@@ -23,13 +23,15 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - **[ClickFunnels](https://www.clickfunnels.com/)**
 
+- **[Elementor](https://elementor.com/)** - Specifically for Wordpress, Elementor gives you an interface for editing your site without code.
+
 - **[Github Pages and Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)** - If you don't mind writing a little HTML yourself, Jekyll is awesome. It can scale pretty much infinitely and it's free to use with Github pages.
 
 - **[Gitlab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)** - If you prefer Gitlab to Github, this is a good option for landing page generation.
 
 - **[HTML5 UP!](https://html5up.net/)** - Free HTML templates for landing pages.
 
-- **[Instapage](https://instapage.com/)**
+- **[Instapage](https://instapage.com/)** - While a bit pricey, I've enjoyed how much freedom Instapage gives you to customize your landing pages without writing HTML.
 
 - **[Lander](https://landerapp.com/)**
 
