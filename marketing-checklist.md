@@ -14,16 +14,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 #### Competitive Landscape
 
-- [ ] Make a list of competitive/alternative services.
-
-  ##### Finding competitors
-  - [ ] [Alexa](http://www.alexa.com/find-similar-sites)
-  - [ ] [AlternativeTo](https://alternativeto.net)
-  - [ ] [AngelList](https://angel.co/)
-  - [ ] [Product Hunt](https://www.producthunt.com/)
-  - [ ] [SimilarSites](http://www.similarsites.com/)
-  - [ ] [SimilarWeb](https://www.similarweb.com/)
-  - [ ] [Sitegur](http://sitegur.com/)
+- [ ] Make a list of competitors (see this list of tools to research competitors).
   
   ##### Competitor data to collect
   - [ ] Link to their website.
