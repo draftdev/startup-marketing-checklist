@@ -230,7 +230,15 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Ego baiting](http://pointblankseo.com/egobait-guide)
   - [ ] Interview/expert Q&A post
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
-
+  
+  ##### Link building tools
+  - [ ] [Ahrefs](https://ahrefs.com/) - Two-week free trial
+  - [ ] [Majestic](https://majestic.com/)
+  - [ ] [Rank Signals](https://www.ranksignals.com/) - Free
+  - [ ] [SEMrush](https://www.semrush.com/)
+  - [ ] [Serpstat](https://serpstat.com/) - Free limited account
+  
+  
 ### Paid Promotional Channels
 
 > _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
