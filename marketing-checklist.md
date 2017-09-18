@@ -76,7 +76,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   
 - [ ] Set up a landing page.
 - [ ] Create "About" and "Contact" pages.
-- [ ] Create Pricing page:
+- [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 
   ##### Pricing ideas
   - [ ] Create a free or trial tier for your paid product.
