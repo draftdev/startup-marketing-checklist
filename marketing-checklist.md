@@ -23,6 +23,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] Blog/RSS link.
   - [ ] Social media links.
   - [ ] Key employees on social media.
+  - [ ] Funding level, history and leadership via [CrunchBase](https://www.crunchbase.com).
 
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their key employees on social media.
