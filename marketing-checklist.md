@@ -371,7 +371,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 - [ ] Leave comments on Slideshare presentations.
 - [ ] Review industry-related books on Amazon, Goodreads.
-
+- [ ] Register to be notified of relevant discussions on Reddit and Hacker News with [F5Bot](https://f5bot.com)
 
 ## Optimizations
 
