@@ -229,6 +229,10 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
   - [ ] [Ego baiting](http://pointblankseo.com/egobait-guide)
   - [ ] Interview/expert Q&A post
+  - [ ] Guest posting
+  - [ ] Broken link building
+  - [ ] Get interviewed on podcasts
+  - [ ] Become a source on [Help a Reporter Out](https://www.helpareporter.com/)
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
 
 ### Paid Promotional Channels
