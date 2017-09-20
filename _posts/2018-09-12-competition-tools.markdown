@@ -27,6 +27,8 @@ In this list we've included tools to help you find similar services and products
 
 - **[AngelList](https://angel.co/)** - Many startups create profiles on AngelList for hiring and promotional purposes, but you can also use it to learn about your competition and their history.
 
+- **[CrunchBase](https://www.crunchbase.com/)** - See when companies were started, how much financing they received and who is leading them.
+
 - **[Google Alerts](https://www.google.com/alerts)** - Keeping up with mentions of your competitors in the news or blogs is easy with Google Alerts.
 
 - **[Internet Archive](https://archive.org/)** - Want to see what your competitors' websites looked like last month? A year ago? The Way Back Machine from archive.org has been storing old versions of websites since the 90's.
