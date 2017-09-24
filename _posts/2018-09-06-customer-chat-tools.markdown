@@ -15,7 +15,15 @@ _Live chat demo using [Autopilot](https://autopilothq.com/)_
 
 To help you get started, we've created this comprehensive list of customer chat tools that would be perfect for your side project.
 
-{% include featured-banner.html %}
+<div class="featured">
+  <h2>Featured</h2>
+  <a href="https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=logo&utm_content=v2&utm_campaign=pp_spm-checklist&utm_term="><img src="https://cdn.livechatinc.com/partners/production/img/livechat.svg" alt="LiveChat Expert"></a>
+  <p>
+    <strong><a href="https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term=">LiveChat</a></strong> - 
+    Contact your online visitors in real-time through LiveChat! Chat with your visitors and convert them into customers using the web, desktop and mobile applications. Start your <a href="https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term=">free 60-day LiveChat trial</a> today.
+  </p>
+
+</div>
 
 ### All Customer Chat Tools
 
@@ -44,8 +52,6 @@ To help you get started, we've created this comprehensive list of customer chat 
 - **[JetLink](https://jetlink.io)** - Supplement your customer service with smart chatbots that can cut down on the amount of time you spend answering common questions.
 
 - **[JivoSite](https://www.jivochat.com/)** - Includes a free tier for up to five agents. It also integrates with Facebook messenger if your customers happen to be there as well.
-
-- **[LiveChat Inc](https://www.livechatinc.com)** — Full featured customer service chat with tickets system. It's cheaper than Intercom and has 30-day free trial.
 
 - **[LivePerson](https://www.liveperson.com/)** - LivePerson is more geared towards enterprise customers, but it's worth looking at. Their plans currently start at $40/month.
 

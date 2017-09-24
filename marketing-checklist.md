@@ -69,7 +69,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
   ##### Logo creation tools
   - [ ] The Logo Company ([10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
-  - [ ] [LogoFox](https://logofox.co/form/name)
+  - [ ] [LogoFox](https://logofox.co/form/name) (Use coupon code "CHECKLIST" for 20% off your order)
   - [ ] [The Noun Project](https://thenounproject.com/)
   - [ ] [FlatIcon](https://www.flaticon.com/)
   - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
