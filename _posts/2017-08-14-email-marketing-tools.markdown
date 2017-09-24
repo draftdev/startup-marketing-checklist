@@ -56,6 +56,8 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 
 - **[Drip](https://www.drip.co/)** - Drip helps you build sales automation email flows. This looks interesting although I haven't personally tried it.
 
+- **[Dripscript](https://dripscripts.com/)** - Coming up with drip email campaigns is time-consuming and creatively tough. Dripscript helps you by packaging up templates of drip campaign emails for you.
+
 - **[Email Monster](https://emailmonster.io/)** - A free drag-and-drop email editor.
 
 - **[Flashissue](https://www.flashissue.com/)** - Unlike most email creators, Flashissue works with Gmail, so you don't even have to leave your inbox to send out newsletters. It's a novel approach to email marketing that I'm excited to try, plus it's free.
