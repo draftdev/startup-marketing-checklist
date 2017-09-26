@@ -20,7 +20,7 @@ To help you get started, we've created this comprehensive list of customer chat 
   <a href="https://www.livechatinc.com/signup/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term"><img src="https://cdn.livechatinc.com/partners/production/img/livechat.svg" alt="LiveChat Expert"></a>
   <p>
     <strong><a href="https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term=">LiveChat</a></strong> - 
-    Contact your online visitors in real-time through LiveChat! Chat with your visitors and convert them into customers using the web, desktop and mobile applications. Start your <a href="https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term=">free 60-day LiveChat trial</a> today.
+    Contact your online visitors in real-time through LiveChat! Chat with your visitors and convert them into customers using the web, desktop and mobile applications. Start your <a href="https://www.livechatinc.com/signup/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term">free 60-day LiveChat trial</a> today.
   </p>
 
 </div>
