@@ -11,7 +11,7 @@ If you want to engage your customers at the moment they're considering buying yo
 
 ![](https://i.imgur.com/yyUjCLE.gif)
 
-_Live chat demo using [Autopilot](https://autopilothq.com/)_
+_Live chat demo using Autopilot_
 
 To help you get started, we've created this comprehensive list of customer chat tools that would be perfect for your side project.
 

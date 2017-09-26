@@ -14,7 +14,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 #### Competitive Landscape
 
-- [ ] Make a list of competitors (see this list of tools to research competitors).
+- [ ] Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
   
   ##### Competitor data to collect
   - [ ] Link to their website.
@@ -26,7 +26,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their key employees on social media.
-- [ ] Set up [Google News alerts](https://www.google.com/alerts) for competitors.
 - [ ] Monitor competitors' websites for changes.
   
   ##### Site monitoring tools
@@ -34,7 +33,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Versionista](https://versionista.com/)
 
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
-- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/))
+- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
 
 #### Customer Research
 
@@ -330,20 +329,21 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 > _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar
 
-- [ ] Set up automated regular social media posts.
+- [ ] Schedule regular social media content (try these [social media tools to help automate the social media process](/2017/social-media-tools)).
 
-  ##### Social media automation tools
-  - [ ] [Hootsuite](https://hootsuite.com/)
-  - [ ] [Sprout Social](https://sproutsocial.com/)
-  - [ ] [Buffer](https://buffer.com/)
-  - [ ] [Recurpost](https://recurpost.com/)
+  ##### Content ideas
+  - [ ] Show what happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
+  - [ ] Blog posts from your blog (or partners' blogs).
+  - [ ] Special offers or discounts.
+  - [ ] Relevant news, advice, or blogs.
+  - [ ] Funny or inspiring quotes.
+  - [ ] Polls or questions for your followers.
+  - [ ] Suggested books.
+  - [ ] Useful tools or websites.
 
 - [ ] Join Facebook and Linkedin groups where your product might be beneficial.
 - [ ] Send exclusive offers to LinkedIn/Facebook Group owners.
 - [ ] Join Twitter chats related to your industry/product.
-- [ ] Show what happening "behind the scenes" at your project on social media (eg: pictures of your workspace, in-development features, etc.).
-- [ ] Build/update publishing calendar for social media.
-- [ ] Post blog posts from your blog (or partners' blogs).
 - [ ] Give early users discounts for taking pics with your product.
 
 ### Public Relations
