@@ -188,7 +188,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 > _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
 
 - [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
-- [ ] Write and distribute a Press Release.
+- [ ] Write and distribute a Press Release (here's a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
 - [ ] Write and distribute an eBook, exchange it for email signup.
 - [ ] Write and distribute a white paper, exchange it for email signup.
 - [ ] Give free access to influential bloggers in the industry.

@@ -33,7 +33,9 @@ In this list we've included tools to help you find similar services and products
 
 - **[Internet Archive](https://archive.org/)** - Want to see what your competitors' websites looked like last month? A year ago? The Way Back Machine from archive.org has been storing old versions of websites since the 90's.
 
-- **[Product Hunt](https://www.producthunt.com/)** - If you're into startups, you have probably heard of Product Hunt. It helps you find new products by emailing newly submitted products every day (or week) and does a pretty good job categorizing submissions. 
+- **[Product Hunt](https://www.producthunt.com/)** - If you're into startups, you have probably heard of Product Hunt. It helps you find new products by emailing newly submitted products every day (or week) and does a pretty good job categorizing submissions.
+
+- **[ScoutZen](https://www.scoutzen.com)** - Use ScoutZen to track a competitor's followers/following on Twitter, as well as to monitor for mentions of your competition with automated advanced Twitter searches.
 
 - **[SimilarSites](http://www.similarsites.com/)** - SimilarSites' search is pretty good at identifying competing sites in a specific niche.
 
