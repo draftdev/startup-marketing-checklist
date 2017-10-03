@@ -60,20 +60,18 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Landing Page
 
-*[See this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/) for services that make creating landing pages easier.*
-
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
 - [ ] Create a logo.
 
   ##### Logo creation tools
-  - [ ] The Logo Company ([10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
-  - [ ] [LogoFox](https://logofox.co/form/name) (Use coupon code "CHECKLIST" for 20% off your order)
+  - [ ] The Logo Company (use this link for [10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
+  - [ ] [LogoFox](https://logofox.co/form/name) (use coupon code "CHECKLIST" for 20% off your order)
   - [ ] [The Noun Project](https://thenounproject.com/)
   - [ ] [FlatIcon](https://www.flaticon.com/)
   - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
   
-- [ ] Set up a landing page.
+- [ ] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
 - [ ] Create "About" and "Contact" pages.
 - [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 
@@ -107,17 +105,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 > _Content Marketing is all the marketing that’s left._ - Seth Godin
 
-- [ ] Choose a blogging platform:
-
-  ##### Blogging platforms
-  - [ ] [ButterCMS](https://buttercms.com)
-  - [ ] [Linkedin](https://www.linkedin.com/post/new)
-  - [ ] [Medium](https://medium.com/new-story)
-  - [ ] [Tumblr](https://www.tumblr.com/)
-  - [ ] [Ghost](https://ghost.org/)
-  - [ ] [Squarespace](https://www.squarespace.com/)
-  - [ ] [Wordpress.com](https://wordpress.org/)
-  
+- [ ] Choose a blogging platform (see this list of [blogging platforms for your side project](/2017/blogging-platforms)).
 - [ ] Research keywords that you'd like your site/blog to rank for.
 
   ##### Keyword research tools
