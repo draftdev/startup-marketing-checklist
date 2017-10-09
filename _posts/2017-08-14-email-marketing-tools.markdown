@@ -30,7 +30,7 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 
 ### All Email Marketing Tools
 
-- **[ActiveCampaign](http://www.activecampaign.com/)**
+- **[ActiveCampaign](http://www.activecampaign.com/)** - Lets you create automated marketing workflows as well as manage emails and newsletters.
 
 - **[ActiveTrail](https://www.activetrail.com/email_marketing_software/)**
 
@@ -39,6 +39,8 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 - **[Aweber](https://www.aweber.com/)**
 
 - **[Benchmark Email](https://www.benchmarkemail.com/)**
+
+- **[BigMailer](https://www.bigmailer.io/)** - Has a startup-friendly free tier (up to 5K contacts). It runs on Amazon SES and has built-in brand and multi-optin management.
 
 - **[Buttondown](https://buttondown.email)** - Buttondown lets you write emails in [markdown](https://daringfireball.net/projects/markdown/syntax). That's pretty awesome.
 
@@ -62,11 +64,13 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 
 - **[Flashissue](https://www.flashissue.com/)** - Unlike most email creators, Flashissue works with Gmail, so you don't even have to leave your inbox to send out newsletters. It's a novel approach to email marketing that I'm excited to try, plus it's free.
 
+- **[FreshMail](https://freshmail.com/)**
+
 - **[GetResponse](https://www.getresponse.com/)**
 
 - **[Google MailApp Scripts](https://developers.google.com/apps-script/reference/mail/mail-app)** - This is kind of an unconventional option, but if you're a developer, you might like working with the command line rather than a GUI. Google's MailApp API could be perfect for you.
 
-- **[FreshMail](https://freshmail.com/)**
+- **[Hubspot Email Marketing](https://www.hubspot.com/products/marketing/email) - If you already use Hubspot, this will integrate nicely with their CRM.
 
 - **[iContact](https://www.icontact.com/pricing)**
 
@@ -89,6 +93,8 @@ Here's a rundown of email marketing tools and a little bit about some of them.
 - **[ReachMail](https://www.reachmail.net/)**
 
 - **[Retainly](https://retainly.co/)**
+
+- **[Revue](https://www.getrevue.co/)** - Makes the setup and sending process super simple, plus you can start with 50 subscribers for free.
 
 - **[Sendgrid](https://sendgrid.com/)** - Sendgrid has long been my go-to for api-driven email, and now you can actually create campaigns and templates in Sendgrid as well.
 
