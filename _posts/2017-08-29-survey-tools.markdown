@@ -27,6 +27,8 @@ While developers can easily build forms to capture customer responses, it's usua
 
 - **[IdeaCheck](http://www.ideacheck.io)** - Helps you validate your ideas and will even find respondents for your survey.
 
+- **[Insight Stash](https://insightstash.com/)** - Fast, simple, and good-looking feedback forms for less than $20/month.
+
 - **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**
 
 - **[MicroHero Surveys](https://www.microhero.com/surveys/)** - Focused on mobile. Allows you to create surveys for your customers or they'll help you find respondents.

@@ -10,7 +10,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Market Research
 
-> _If we knew what were doing it wouldn’t be called research._ - Albert Einstein
+> _If we knew what we were doing it wouldn’t be called research._ - Albert Einstein
 
 #### Competitive Landscape
 
