@@ -31,6 +31,8 @@ Fortunately, setting up a blog doesn't have to be a headache, and there are nume
 
 - **[Medium](https://medium.com/new-story)** - Medium is really pushing its premium features for publishers lately, but the free option is still pretty good. You don't get to customize the look of your blog, but it does get some free distribution on Medium.com.
 
+- **[Postagon](http://www.postagon.com/)** - Many of the blogging platforms on this list have more features than Postagon, but if you like a clean, minimal experience, you can start writing on Postagon in less than a minute.
+
 - **[Squarespace](https://www.squarespace.com/)** - In addition to being a great [tool for landing pages](/2017/landing-page-tools), Squarespace allows you to manage and host your blog.
 
 - **[Tumblr](https://www.tumblr.com/)** - Tumblr is simple and customizable, plus you can make it work with your own domain name.
@@ -44,6 +46,8 @@ Fortunately, setting up a blog doesn't have to be a headache, and there are nume
 - **[Wordpress.com](https://wordpress.com/)** - Wordpress.com is a hosted blogging service. It makes setup easier, but allows for less flexibility than Wordpress.org (see below).
 
 - **[Wordpress.org](https://wordpress.org/)** - While you'll have to install Wordpress on your own server, hosting is usually cheap. The biggest downside to Wordpress now is the spam that shows up because Wordpress is so popular.
+
+- **[Write.as](https://write.as/)** - Quick, free (or cheap to upgrade), does custom domains, custom CSS, and it's easy to create a bunch of blogs from one account if you upgrade.
 
 -----
 
