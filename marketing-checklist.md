@@ -117,16 +117,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
 
 - [ ] Create anchor posts or pages for keywords you'd like to rank for.
-- [ ] Have a blog post brainstorming session:
-
-  ##### Blog post ideas
-  - Little known features of your product.
-  - Highlight use cases for your product.
-  - Highlight customers who are using your product.
-  - Interview industry specialists.
-  - List of popular sites in your industry (be sure to notify them after you publish it!)
-  - See these lists of ideas from [Buffer](https://blog.bufferapp.com/blogpost-ideas) and [Hubspot](https://blog.hubspot.com/blog/tabid/6307/bid/23973/41-fresh-blog-post-ideas-for-your-company-blog.aspx).
-
+- [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](/2017/blog-post-ideas)).
 - [ ] Add email signup form or link to all blog posts.
 - [ ] Add social media follow links to all blog posts.
 
