@@ -284,7 +284,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] Record/post video of you reading the post on YouTube.
   - [ ] Turn posts into a podcast.
   - [ ] Create an infographic based on the post.
-  - [ ] Create a [Slideshare](https://www.slideshare.net/) or [Prezi](https://prezi.com/) of your post.
+  - [ ] Create a presentation of your post (see the [list of presentation software below](#presentation-software)).
 
 - [ ] Promote your blog content:
   
