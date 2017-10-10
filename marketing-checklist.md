@@ -109,6 +109,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Research keywords that you'd like your site/blog to rank for.
 
   ##### Keyword research tools
+  - [Ahrefs](https://ahrefs.com/)
   - [SpyFu](https://www.spyfu.com/)
   - [SEMrush](https://www.semrush.com/)
   - [KeywordTool.io](http://keywordtool.io/)
