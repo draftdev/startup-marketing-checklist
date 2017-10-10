@@ -358,7 +358,14 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 - [ ] Leave comments on Slideshare presentations.
 - [ ] Review industry-related books on Amazon, Goodreads.
-- [ ] Register to be notified of relevant discussions on Reddit and Hacker News with [F5Bot](https://f5bot.com)
+- [ ] Register to be notified of relevant discussions on Reddit and Hacker News with [F5Bot](https://f5bot.com).
+- [ ] Create/publish presentations relevant to your industry.
+
+  ##### Presentation Software
+  - [ ] [Google Slides](https://docs.google.com/presentation/)
+  - [ ] [Prezi](https://prezi.com/)
+  - [ ] [Slides.com](https://slides.com/)
+  - [ ] [Slideshare](https://www.slideshare.net/)
 
 ## Optimizations
 
