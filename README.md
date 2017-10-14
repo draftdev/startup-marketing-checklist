@@ -1,4 +1,4 @@
-# Side Project Marketing
+# Side Project Checklist
 
 [![](https://i.imgur.com/uZJHDXL.jpg)](https://www.sideprojectchecklist.com/)
 
