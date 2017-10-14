@@ -13,11 +13,10 @@ theme: jekyll-whiteglass
 google_analytics: UA-19700764-11
 gems:
   - jekyll-archives
-  - jekyll-paginate
   - jekyll-sitemap
 
 permalink: /:year/:title/
-paginate_path: /posts/:num/
+paginate_path: /blog/:num/
 paginate: 5
 comments: false
 
