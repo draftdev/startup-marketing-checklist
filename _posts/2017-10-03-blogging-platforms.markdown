@@ -23,6 +23,8 @@ Fortunately, setting up a blog doesn't have to be a headache, and there are nume
 
 - **[Contentful](https://www.contentful.com/)** - Like ButterCMS, Contentful can be used as a complete content management system with an API that will hook into your site. Both solutions are only recommended for developers.
 
+- **[Drupal](https://www.drupal.org/)** - Free, open source, PHP. Drupal is a full-fledged content management system with a huge community.
+
 - **[Ghost](https://ghost.org/)** - An open source platform, Ghost can be installed on your server or you can use Ghost Pro to let them serve it up.
 
 - **[Jekyll](https://jekyllrb.com/)** - I use Jekyll for most of my landing pages and side project blogs. It allows you to write in markdown and updates are as simple as a push to Github.
