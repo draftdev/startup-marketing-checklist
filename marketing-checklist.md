@@ -181,27 +181,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Pexels](https://www.pexels.com/)
   - [ ] [Death to Stock](https://deathtothestockphoto.com/)
 
-- [ ] Create an online course or guide around your product/industry.
-
-  ##### Free learning management systems
-  - [Adapt Learning](https://www.adaptlearning.org/)
-  - [Google Open Classroom](https://edu.google.com/openonline/edukit/index.html)
-  - [Moodle](https://moodle.org/)
-  - [Eliademy](https://eliademy.com/)
-  - [Forma LMS](https://www.formalms.org/)
-  - [Canvas](https://www.canvaslms.com/)
-  - [ILIAS](https://www.ilias.de/docu/goto_docu_root_1.html)
-  - [Opigno](https://www.opigno.org/en)
-
-  ##### External course-creation sites
-  - [ ] [Snapguide](https://snapguide.com/)
-  - [ ] [Guides.co](http://guides.co/)
-  - [ ] [eHow](http://www.ehow.com/write-for-ehow/)
-  - [ ] [Lynda](https://www.lynda.com/)
-  - [ ] [Pluralsight](https://www.pluralsight.com/teach)
-  - [ ] [Skillshare](https://www.skillshare.com/)
-  - [ ] [Udemy](https://www.udemy.com/)
-
+- [ ] Create an online course or guide around your product/industry (be sure to [check out our list of course management tools](/2017/course-creation-tools)).
 - [ ] Run a link-building campaign.
 
   ##### Link building strategies
