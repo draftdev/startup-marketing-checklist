@@ -27,15 +27,25 @@ In this list we've included tools to help you find similar services and products
 
 - **[AngelList](https://angel.co/)** - Many startups create profiles on AngelList for hiring and promotional purposes, but you can also use it to learn about your competition and their history.
 
+- **[Competeshark](https://competeshark.com/)** - Imagine being able to see details on your competitors' marketing campaigns. That's the premise of Competeshark's service.
+
 - **[CrunchBase](https://www.crunchbase.com/)** - See when companies were started, how much financing they received and who is leading them.
 
 - **[Google Alerts](https://www.google.com/alerts)** - Keeping up with mentions of your competitors in the news or blogs is easy with Google Alerts.
 
 - **[Internet Archive](https://archive.org/)** - Want to see what your competitors' websites looked like last month? A year ago? The Way Back Machine from archive.org has been storing old versions of websites since the 90's.
 
+- **[Keyhole](http://keyhole.co/)** - Great for tracking social mentions, brand names, or hash tags over time so you can quickly respond or catch emerging competitors.
+
+- **[Linkedin](https://www.linkedin.com/)** - Just about everyone has a Linkedin account, so it's a great way to research your competition's company, founders, employees, and even open job listings.
+
+- **[MonitorBacklinks](https://monitorbacklinks.com/)** - Your existing competition may have a number of strong links that have helped them jump to the top of search results. Knowing what they are can help you get your site ranked above them. 
+
 - **[Product Hunt](https://www.producthunt.com/)** - If you're into startups, you have probably heard of Product Hunt. It helps you find new products by emailing newly submitted products every day (or week) and does a pretty good job categorizing submissions.
 
-- **[ScoutZen](https://www.scoutzen.com)** - Use ScoutZen to track a competitor's followers/following on Twitter, as well as to monitor for mentions of your competition with automated advanced Twitter searches.
+- **[ScoutZen](https://www.scoutzen.com)** - Use ScoutZen to track a competitor's followers/following on Twitter, as well as to monitor for mentions of your competition with automated advanced Twitter searches. 
+
+- **[Serpstat](https://serpstat.com/)** - Serpstat compiles historical data on keywords, allowing you to easily see how a keyword's popularity has changed and how strong the competition is for it. 
 
 - **[SimilarSites](http://www.similarsites.com/)** - SimilarSites' search is pretty good at identifying competing sites in a specific niche.
 
@@ -45,11 +55,19 @@ In this list we've included tools to help you find similar services and products
 
 - **[SocialMention](http://www.socialmention.com/)** - SocialMention offers real-time social media search for keywords including domain names.
 
+- **[SpyFu](https://www.spyfu.com/)** - Use SpyFu to keep up with backlinks, keywords, and ads your competitors are using to attract visitors.
+
+- **[The Search Monitor](https://www.thesearchmonitor.com/)** - This tool will help you keep up with who is buying ads on which search terms. Great if you're in an industry that does a lot of paid advertising.
+
 - **Trade Journals or Blogs** - For more traditional businesses, there is probably a trade journal out there. In new media, you might be more likely to find competitors mentioned in industry blogs or news sites.
+
+- **[Wappalyzer](https://wappalyzer.com/)** - Identify the marketing and tech tools that your competitors are using on their sites.
 
 - **[WebWire](https://www.webwire.com/IndustryList.asp)** - WebWire hosts a list of trade journals by industry that could be very helpful if you're exploring a new market and want to know what the major news sources are. 
 
 - **[Whois Lookup](http://whois.domaintools.com/)** - This might be helpful for smaller competitors who don't include much information about the company's founders or structure on their site. Whois lookup allows you to see who owns the domain name, when it was bought/sold, and any other domains they own.
+
+- **[WooRank](https://www.woorank.com/)** - Good for ranking your competitors' websites and looking for ways you can outperform them. 
 
 -----
 
