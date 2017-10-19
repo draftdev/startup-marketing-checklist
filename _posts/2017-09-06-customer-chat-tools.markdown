@@ -37,7 +37,7 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 - **[Crisp.chat](https://crisp.chat/en/)** - Crisp offers a free tier for small businesses with just one or two customer service reps, so this could be perfect for a side project just getting started.
 
-- **[Drift](https://www.drift.com/)** - Drift seeks to replace your traditional interest forms with a smart chat AI.
+- **[Drift](https://www.drift.com/)** - Drift seeks to replace your traditional interest forms with a smart chat AI, and they offer a free plan for fewer than 100 contacts.
 
 - **[Freshchat](https://www.freshchat.io/)** - Also offers a free tier plus personalized and targeted messages.
 
@@ -53,6 +53,8 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 - **[JivoSite](https://www.jivochat.com/)** - Includes a free tier for up to five agents. It also integrates with Facebook messenger if your customers happen to be there as well.
 
+- **[LiveChat](https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term=)** - Chat with your visitors and convert them into customers using the web, desktop and mobile applications.
+
 - **[LivePerson](https://www.liveperson.com/)** - LivePerson is more geared towards enterprise customers, but it's worth looking at. Their plans currently start at $40/month.
 
 - **[Reamaze](https://www.reamaze.com/)** - Reamaze brings all your customer conversations from social media into one place.
@@ -60,6 +62,8 @@ To help you get started, we've created this comprehensive list of customer chat 
 - **[Resend](https://resend.io/)** - Very similar to Intercom in the way they've built their product.
 
 - **[Subiz](https://subiz.com)** - Analytics for your visitors is included in their chat platform.
+
+- **[Smallchat](https://small.chat/)** - Smallchat hooks into your existing Slack channel to allow you to talk with customers on your site, and they offer a free plan.
 
 - **[Tawk](https://www.tawk.to/)** - Lets you chat with people on your website or mobile app. Best of all for small projects, it's **100% free**.
 
