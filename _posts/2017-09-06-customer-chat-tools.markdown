@@ -79,15 +79,17 @@ To help you get started, we've created this comprehensive list of customer chat 
   ic-post-to="https://hooks.zapier.com/hooks/catch/477069/izi09b/"
   ic-on-complete="voteCastComplete()"
 >
-  <label for="email">Cast your vote</label>
+  <h3>Recommend this product</h3>
+  <p>Enter your email address to vote for this product.</p>
   <input type="email" name="email" id="email" placeholder="Enter your email address" required>
   <input type="hidden" name="product" value="" id="product" required>
   <input type="submit" value="Vote!">
+  <p style="font-size: 10px; margin: 5px;">Email for verification purposes only. We don't share your address.</p>
 </form>
 
 <div id="thanks-modal" class="modal">
   <h3>Thanks!</h3>
-  <p>Your vote has been cast and will show up in a few minutes.</p>
+  <p>Your vote has been cast.</p>
 </div>
 
 Did I miss a customer chat tool that you love? Would you like to add a description to one of the products above? Submit a suggestion on [this Github issue and I'll add it to the list](https://github.com/karllhughes/side-project-marketing/issues/19).
