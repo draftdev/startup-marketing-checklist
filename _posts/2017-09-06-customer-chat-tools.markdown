@@ -75,4 +75,4 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 -----
 
-Did I miss a customer chat tool that you love? [Submit your suggestions here](https://airtable.com/shrwrPOxd0wlqoiZb).
+Did I miss a tool that you love? [Submit your suggestions here](https://airtable.com/shrwrPOxd0wlqoiZb), or [email me](mailto:marketing@portablecto.com) to suggest an update.
