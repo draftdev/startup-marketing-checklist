@@ -27,7 +27,7 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 ### All Customer Chat Tools
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Altocloud">Vote</a> **[Altocloud](https://www.altocloud.com/)** - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
+- <a href="#vote-form" title="Vote" class="vote-link" rel="modal:open" id="Altocloud">&#x25B2; <span class="count">10</span></a> &nbsp;**[Altocloud](https://www.altocloud.com/)** - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
 
 - **[Autopilot](https://autopilothq.com/)** - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
 
@@ -41,7 +41,7 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 - **[Freshchat](https://www.freshchat.io/)** - Also offers a free tier plus personalized and targeted messages.
 
-- **[Gitter Sidecar](https://sidecar.gitter.im/)** - Gitter is a developer community chat platform, but they also have a javascript widget that you can use as on-site chat.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Gitter_Sidecar">&#x25B2; <span class="count">10</span></a> &nbsp;**[Gitter Sidecar](https://sidecar.gitter.im/)** - Gitter is a developer community chat platform, but they also have a javascript widget that you can use as on-site chat.
 
 - **[HelpCrunch](https://helpcrunch.com/)** - Messaging integrates into their complete customer-service solution.
 
@@ -75,9 +75,8 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 -----
 
-<!-- ic-post-to="https://hooks.zapier.com/hooks/catch/477069/izi09b/" -->
 <form id="vote-form" class="modal" 
-  ic-post-to="/test"
+  ic-post-to="https://hooks.zapier.com/hooks/catch/477069/izi09b/"
   ic-on-complete="voteCastComplete()"
 >
   <label for="email">Cast your vote</label>
@@ -92,65 +91,3 @@ To help you get started, we've created this comprehensive list of customer chat 
 </div>
 
 Did I miss a customer chat tool that you love? Would you like to add a description to one of the products above? Submit a suggestion on [this Github issue and I'll add it to the list](https://github.com/karllhughes/side-project-marketing/issues/19).
-
-<!-- jQuery :) -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-
-<!-- Intercooler -->
-<script src="https://intercoolerreleases-leaddynocom.netdna-ssl.com/intercooler-1.1.2.min.js"></script>
-
-<!-- jQuery Modal -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
-
-<!-- JS Cookie -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.4/js.cookie.min.js"></script>
-
-<script type="text/javascript">
-
-  $(document).ready(function() {
-    // Set the user's email if they've given it.
-    if (Cookies.get('spc_user_email')) {
-      $('#email').val(Cookies.get('spc_user_email'));
-    }
-    
-    // Remove vote links for voted items
-    if (Cookies.get('spc_user_products')) {
-      removeVotedProducts();
-    }
-  });
-  
-  // Set the product
-  $('a.vote-link').click(function() { 
-      var product = $(this).attr('id').replace('#', '');
-      $('#product').val(product);
-      return true;
-  });
-  
-  // Close vote cast modal, save user and vote data
-  function voteCastComplete() {
-    var email = $('#email').val();
-    Cookies.set('spc_user_email', email, { expires: 21, path: '/' });
-    
-    var product = $('#product').val();
-    var products = Cookies.getJSON('spc_user_products');
-    if (products && products.length) {
-      products.push(product);
-    } else {
-      products = [product];
-    }
-    Cookies.set('spc_user_products', products, { expires: 21, path: '/' });
-    
-    $.modal.close();
-    $('#thanks-modal').modal();
-    
-    removeVotedProducts();
-  }
-  
-  function removeVotedProducts() {
-    Cookies.getJSON('spc_user_products').map(function(product) {
-      console.log(product);
-      $('#' + product).remove();
-    });
-  }
-</script>

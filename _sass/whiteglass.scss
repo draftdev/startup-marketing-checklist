@@ -44,3 +44,19 @@ $on-laptop:        800px !default;
 "whiteglass/layout",
 "whiteglass/syntax-highlighting"
 ;
+
+/**
+  Voting
+ */
+a.vote-link {
+  color: #FF7533;
+  font-weight: bold;
+}
+a.vote-link:hover {
+  text-decoration: none;
+  color: #FF4A33;
+}
+.disabled-vote {
+  color: grey;
+  font-weight: bold;
+}
