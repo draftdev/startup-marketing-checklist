@@ -1,14 +1,27 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
     <p>
       {% include footer_content.html %}
     </p>
-
   </div>
-
 </footer>
+
+<form id="vote-form" class="modal"
+      ic-post-to="https://hooks.zapier.com/hooks/catch/477069/izi09b/"
+      ic-on-complete="voteCastComplete()"
+      ic-target="false">
+  <h3>Recommend this product</h3>
+  <p>Enter your email address to vote for this product.</p>
+  <input type="email" name="email" id="email" placeholder="Enter your email address" required>
+  <input type="hidden" name="product" value="" id="product" required>
+  <input type="submit" value="Vote!">
+  <p style="font-size: 10px; margin: 5px;">Email for verification purposes only. We don't share your address.</p>
+</form>
+
+<div id="thanks-modal" class="modal">
+  <h3>Thanks!</h3>
+  <p>Your vote has been cast.</p>
+</div>
 
 <!-- jQuery :) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>

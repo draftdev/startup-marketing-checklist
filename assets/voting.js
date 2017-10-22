@@ -27,7 +27,7 @@ $('a.vote-link').click(function() {
 // Close vote cast modal, save user and vote data
 function voteCastComplete() {
   var email = $('#email').val();
-  Cookies.set('spc_user_email', email, { expires: 21, path: '/' });
+  Cookies.set('spc_user_email', email, { expires: 30, path: '/' });
 
   var product = $('#product').val();
   var products = Cookies.getJSON('spc_user_products');
@@ -36,7 +36,7 @@ function voteCastComplete() {
   } else {
     products = [product];
   }
-  Cookies.set('spc_user_products', products, { expires: 21, path: '/' });
+  Cookies.set('spc_user_products', products, { expires: 30, path: '/' });
 
   $.modal.close();
   $('#thanks-modal').modal();
