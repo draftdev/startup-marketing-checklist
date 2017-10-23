@@ -27,11 +27,11 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 ### All Customer Chat Tools
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Autopilot">&#x25B2; <span class="count">1</span></a> &nbsp;**[Autopilot](https://autopilothq.com/)** <span style="color: grey;">($19.99)</span> - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Intercom">&#x25B2; <span class="count">1</span></a> &nbsp;**[Intercom](https://www.intercom.com/)** <span style="color: grey;">($49)</span> - Intercom is probably the most well-known player in this space. Their offerings now border on complete customer and sales solutions, but you can just use them for chat as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Altocloud">&#x25B2; <span class="count">0</span></a> &nbsp;**[Altocloud](https://www.altocloud.com/)** <span style="color: grey;">($49)</span> - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Autopilot">&#x25B2; <span class="count">0</span></a> &nbsp;**[Autopilot](https://autopilothq.com/)** <span style="color: grey;">($19.99)</span> - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Chat.io">&#x25B2; <span class="count">0</span></a> &nbsp;**[Chat.io](https://www.chat.io/)** <span style="color: grey;">($10)</span> - Has a Facebook integration that lets you handle Messenger conversations along with chats from website in one app. $10/month with a 14-day free trial.
 
@@ -43,7 +43,7 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Freshchat">&#x25B2; <span class="count">0</span></a> &nbsp;**[Freshchat](https://www.freshchat.io/)** <span style="color: grey;">($0)</span> - Also offers a free tier plus personalized and targeted messages.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Gitter Sidecar">&#x25B2; <span class="count">0</span></a> &nbsp;**[Gitter Sidecar](https://sidecar.gitter.im/)** <span style="color: grey;">($0)</span> - Gitter is a developer community chat platform, but they also have a javascript widget that you can use as on-site chat.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Gitter_Sidecar">&#x25B2; <span class="count">0</span></a> &nbsp;**[Gitter Sidecar](https://sidecar.gitter.im/)** <span style="color: grey;">($0)</span> - Gitter is a developer community chat platform, but they also have a javascript widget that you can use as on-site chat.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="HelpCrunch">&#x25B2; <span class="count">0</span></a> &nbsp;**[HelpCrunch](https://helpcrunch.com/)** <span style="color: grey;">($12)</span> - Messaging integrates into their complete customer-service solution.
 

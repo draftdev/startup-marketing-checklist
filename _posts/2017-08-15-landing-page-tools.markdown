@@ -21,7 +21,13 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Carrd">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="HTML5 UP!">&#x25B2; <span class="count">0</span></a> &nbsp;**[HTML5 UP!](https://html5up.net/)** <span style="color: grey;">($0)</span> - Free HTML templates for landing pages.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="ClickFunnels">&#x25B2; <span class="count">0</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Elementor">&#x25B2; <span class="count">0</span></a> &nbsp;**[Elementor](https://elementor.com/)** <span style="color: grey;">($0)</span> - Specifically for Wordpress, Elementor gives you an interface for editing your site without code.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Gitlab_Pages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Gitlab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)** <span style="color: grey;">($0)</span> - If you prefer Gitlab to Github, this is a good option for landing page generation.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="HTML5_UP!">&#x25B2; <span class="count">0</span></a> &nbsp;**[HTML5 UP!](https://html5up.net/)** <span style="color: grey;">($0)</span> - Free HTML templates for landing pages.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Instapage">&#x25B2; <span class="count">0</span></a> &nbsp;**[Instapage](https://instapage.com/)** <span style="color: grey;">($68)</span> - While a bit pricey, I’ve enjoyed how much freedom Instapage gives you to customize your landing pages without writing HTML.
 
@@ -29,13 +35,11 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Lander">&#x25B2; <span class="count">0</span></a> &nbsp;**[Lander](https://landerapp.com/)** <span style="color: grey;">($16)</span> - Integrates with email marketing platforms and lets you create Facebook pages as well.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Gitlab Pages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Gitlab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)** <span style="color: grey;">($0)</span> - If you prefer Gitlab to Github, this is a good option for landing page generation.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Lion">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing Lion">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Page Experts">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Page Experts](http://landing-page-experts.com/)**  - A landing page consultation service that guarantees your A/B test after their improvements will be better.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Landingfolio">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landingfolio](http://www.landingfolio.com/)** <span style="color: grey;">($0)</span> - Landingfolio is a gallery featuring the best landing pages design. Browse more than 373 landing page examples in 53 different categories.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing Page Experts">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Page Experts](http://landing-page-experts.com/)**  - A landing page consultation service that guarantees your A/B test after their improvements will be better.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Landingi">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landingi](https://landingi.com/)** <span style="color: grey;">($29)</span> - Especially made for non-developers. Also helps you manage leads.
 
@@ -51,9 +55,9 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ONTRApages">&#x25B2; <span class="count">0</span></a> &nbsp;**[ONTRApages](https://ontrapages.com/)** <span style="color: grey;">($0)</span> - Create your own landing page in minutes.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Prelaunch Landing Page">&#x25B2; <span class="count">0</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Prelaunch_Landing Page">&#x25B2; <span class="count">0</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Reverent Pages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Reverent Pages](https://www.reverentpages.com/)**  - Unlike most options on this list, Reverent is a full-service landing page service rather than a DIY tool.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Reverent_Pages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Reverent Pages](https://www.reverentpages.com/)**  - Unlike most options on this list, Reverent is a full-service landing page service rather than a DIY tool.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="RocketStart">&#x25B2; <span class="count">0</span></a> &nbsp;**[RocketStart](http://rocketstart.me/en/)**  - Make your “Coming Soon” landing page in couple minutes, upload images or logos and get all tools you need to interact with your audience.
 
@@ -61,7 +65,7 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Squarespace">&#x25B2; <span class="count">0</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Thrive Themes">&#x25B2; <span class="count">0</span></a> &nbsp;**[Thrive Themes](https://thrivethemes.com/)** <span style="color: grey;">($19)</span> - If you use Wordpress, Thrive Themes has some great landing-page focused themes.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Thrive_Themes">&#x25B2; <span class="count">0</span></a> &nbsp;**[Thrive Themes](https://thrivethemes.com/)** <span style="color: grey;">($19)</span> - If you use Wordpress, Thrive Themes has some great landing-page focused themes.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Unbounce">&#x25B2; <span class="count">0</span></a> &nbsp;**[Unbounce](https://unbounce.com/)** <span style="color: grey;">($79)</span> - Their editor gives you lots of options, plus they give you some analytics, the ability to A/B test, and much more.
 
@@ -70,10 +74,6 @@ Fortunately, there are many great and easy-to-use landing page generators and to
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Wix">&#x25B2; <span class="count">0</span></a> &nbsp;**[Wix](https://www.wix.com/)** <span style="color: grey;">($0)</span> - Wix gives you everything you need for a stunning website or blog and it's free.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Woobox">&#x25B2; <span class="count">0</span></a> &nbsp;**[Woobox](https://woobox.com/)** <span style="color: grey;">($30)</span> - Specially made for running contests on your landing pages or social media accounts.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="ClickFunnels">&#x25B2; <span class="count">0</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Elementor">&#x25B2; <span class="count">0</span></a> &nbsp;**[Elementor](https://elementor.com/)** <span style="color: grey;">($0)</span> - Specifically for Wordpress, Elementor gives you an interface for editing your site without code.
 
 -----
 
