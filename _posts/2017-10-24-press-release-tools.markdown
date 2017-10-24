@@ -18,7 +18,7 @@ I took to Quora and asked our readers at the Side Project Checklist to weigh in,
   <h2>Featured</h2>
 
   <a href="http://www.jdoqocy.com/click-8424281-10838494" target="_top">
-  <img src="http://www.tqlkg.com/image-8424281-10838494" border="0" style="margin-bottom:10px;"/></a>
+  <img src="https://www.tqlkg.com/image-8424281-10838494" border="0" style="margin-bottom:10px;"/></a>
 
   <p>
     <a href="http://www.jdoqocy.com/click-8424281-10838494"><strong>eReleases</strong></a> - New Customers to eReleases Save $130 and have your press release distributed over PR Newswire. 100 Guaranteed Links.
