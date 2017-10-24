@@ -19,7 +19,7 @@ $(document).on("beforeAjaxSend.ic", function (evt, settings) {
 
 // Set the product
 $('a.vote-link').click(function() {
-  var product = $(this).attr('id').replace('#', '').replace('_', ' ');
+  var product = replaceAll(replaceAll($(this).attr('id'), '#', ''), '_', ' ');
   $('#product').val(product);
   return true;
 });
@@ -48,13 +48,21 @@ function removeVotedProducts() {
   Cookies.getJSON('spc_user_products').map(function(product) {
 
     // Up the vote count
-    var voteCountElement = $('#' + product.replace(' ', '_') + ' .count');
+    var voteCountElement = $('#' + replaceAll(product, ' ', '_') + ' .count');
     var oldVotes = Number(voteCountElement.text());
     voteCountElement.text(oldVotes + 1);
 
     // Remove link
-    $('#' + product.replace(' ', '_')).replaceWith(function() {
+    $('#' + replaceAll(product, ' ', '_')).replaceWith(function() {
       return $("<span class='disabled-vote'>" + $(this).html() + "</span>");
     });
   });
+}
+
+function replaceAll(str, find, replace) {
+  return str.replace(new RegExp(escapeRegExp(find), 'g'), replace);
+}
+
+function escapeRegExp(str) {
+  return str.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
 }
