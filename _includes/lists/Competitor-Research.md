@@ -1,4 +1,4 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Alexa">&#x25B2; <span class="count">0</span></a> &nbsp;**[Alexa](https://www.alexa.com/find-similar-sites)** <span style="color: grey;">($0)</span> - Alexa’s similar site tool uses audience overlap rather than site content to determine similarity.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Alexa">&#x25B2; <span class="count">1</span></a> &nbsp;**[Alexa](https://www.alexa.com/find-similar-sites)** <span style="color: grey;">($0)</span> - Alexa’s similar site tool uses audience overlap rather than site content to determine similarity.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="AlternativeTo">&#x25B2; <span class="count">0</span></a> &nbsp;**[AlternativeTo](https://alternativeto.net/)** <span style="color: grey;">($0)</span> - If you know your product is similar to at least one other site, you can use AlternativeTo to find dozens of alternatives to that site.
 

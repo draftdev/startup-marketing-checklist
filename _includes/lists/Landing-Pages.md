@@ -1,10 +1,12 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Squarespace">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="ClickFunnels">&#x25B2; <span class="count">1</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Jekyll">&#x25B2; <span class="count">1</span></a> &nbsp;**[Jekyll](https://jekyllrb.com/)** <span style="color: grey;">($0)</span> - If you don’t mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it’s free to use with Github pages.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Carrd">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Lion">&#x25B2; <span class="count">1</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="ClickFunnels">&#x25B2; <span class="count">0</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Carrd">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Elementor">&#x25B2; <span class="count">0</span></a> &nbsp;**[Elementor](https://elementor.com/)** <span style="color: grey;">($0)</span> - Specifically for Wordpress, Elementor gives you an interface for editing your site without code.
 
@@ -15,8 +17,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Instapage">&#x25B2; <span class="count">0</span></a> &nbsp;**[Instapage](https://instapage.com/)** <span style="color: grey;">($68)</span> - While a bit pricey, I’ve enjoyed how much freedom Instapage gives you to customize your landing pages without writing HTML.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Lander">&#x25B2; <span class="count">0</span></a> &nbsp;**[Lander](https://landerapp.com/)** <span style="color: grey;">($16)</span> - Integrates with email marketing platforms and lets you create Facebook pages as well.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Lion">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Page_Experts">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Page Experts](http://landing-page-experts.com/)**  - A landing page consultation service that guarantees your A/B test after their improvements will be better.
 
@@ -43,6 +43,8 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="RocketStart">&#x25B2; <span class="count">0</span></a> &nbsp;**[RocketStart](http://rocketstart.me/en/)**  - Make your “Coming Soon” landing page in couple minutes, upload images or logos and get all tools you need to interact with your audience.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Rocketpages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Rocketpages](http://www.rocketpages.net/)**  - RocketPages helps you quickly and easily create, customize and publish beautiful and high converting squeeze pages, sales pages, landing pages and more.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Stitcher">&#x25B2; <span class="count">0</span></a> &nbsp;**[Stitcher](https://www.stitcher.io/)** <span style="color: grey;">($0)</span> - A PHP-based static site generator.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Thrive_Themes">&#x25B2; <span class="count">0</span></a> &nbsp;**[Thrive Themes](https://thrivethemes.com/)** <span style="color: grey;">($19)</span> - If you use Wordpress, Thrive Themes has some great landing-page focused themes.
 

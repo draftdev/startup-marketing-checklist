@@ -20,6 +20,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Postagon">&#x25B2; <span class="count">0</span></a> &nbsp;**[Postagon](http://www.postagon.com/)** <span style="color: grey;">($0)</span> - Many of the blogging platforms on this list have more features than Postagon, but if you like a clean, minimal experience, you can start writing on Postagon in less than a minute.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Stitcher">&#x25B2; <span class="count">0</span></a> &nbsp;**[Stitcher](https://www.stitcher.io/)** <span style="color: grey;">($0)</span> - A PHP-based static site generator.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Tipe">&#x25B2; <span class="count">0</span></a> &nbsp;**[Tipe](https://tipe.io/)**  - Use their GraphQL or REST API to access your content and display it anywhere.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Tumblr">&#x25B2; <span class="count">0</span></a> &nbsp;**[Tumblr](https://www.tumblr.com/)** <span style="color: grey;">($0)</span> - Tumblr is simple and customizable, plus you can make it work with your own domain name.

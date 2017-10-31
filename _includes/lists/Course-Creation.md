@@ -1,3 +1,5 @@
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Thinkific">&#x25B2; <span class="count">1</span></a> &nbsp;**[Thinkific](https://www.thinkific.com/)** <span style="color: grey;">($0)</span> - Create, market, and sell courses online from your own website.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Adapt_Learning">&#x25B2; <span class="count">0</span></a> &nbsp;**[Adapt Learning](https://www.adaptlearning.org/)** <span style="color: grey;">($0)</span> -  This free LMS (or “learning management system”) allows you to create video courses and distribute them on your own site using the open source Adapt Framework.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Canvas">&#x25B2; <span class="count">0</span></a> &nbsp;**[Canvas](https://www.canvaslms.com/)** <span style="color: grey;">($0)</span> - Canvas has several products that you can use for courses. Canvas Cloud is free or the code is open source if you want to host it yourself.
@@ -25,8 +27,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Snapguide">&#x25B2; <span class="count">0</span></a> &nbsp;**[Snapguide](https://snapguide.com/)** <span style="color: grey;">($0)</span> - Create step-by-step guides to showcase your knowledge and help others learn about topics you know.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Teachable">&#x25B2; <span class="count">0</span></a> &nbsp;**[Teachable](https://teachable.com/)** <span style="color: grey;">($33.25)</span> - Teachable lets you create courses that you can charge users for.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Thinkific">&#x25B2; <span class="count">0</span></a> &nbsp;**[Thinkific](https://www.thinkific.com/)** <span style="color: grey;">($0)</span> - Create, market, and sell courses online from your own website.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Udemy">&#x25B2; <span class="count">0</span></a> &nbsp;**[Udemy](https://www.udemy.com/)** <span style="color: grey;">($0)</span> - Once your course is live, students will be able to discover and buy it, earning you money every time.
 

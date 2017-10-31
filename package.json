@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "app:up": "docker run --name spc-static-site -d --rm -it -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:latest jekyll serve",
+    "app:down": "docker stop spc-static-site"
+  }
+}

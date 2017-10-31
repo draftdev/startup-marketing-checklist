@@ -48,6 +48,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Litmus">&#x25B2; <span class="count">0</span></a> &nbsp;**[Litmus](http://litmus.com/)** <span style="color: grey;">($79)</span>
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="MailerLite">&#x25B2; <span class="count">0</span></a> &nbsp;**[MailerLite](https://www.mailerlite.com)** <span style="color: grey;">($0)</span> - Email Marketing Service for Small Business with all features (Segmentation, Automation, A/B testing, ...) for up to 1,000 subscribers & unlimited emails for free.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailget">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailget](https://www.formget.com/mailget-app/)** <span style="color: grey;">($24)</span>
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailgun">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailgun](https://www.mailgun.com/)** <span style="color: grey;">($0)</span> - Mailgun is an api-only email sending tool, so if your service needs to send transactional emails or you prefer writing your emails in vim, Mailgun is for you.
