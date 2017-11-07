@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Logo Creation Tools"
+date:   2017-11-07
+author: Karl Hughes
+categories:
+  - tools
+  - logos
+  - branding
+---
+
+I'm not a designer, and I've never been great at coming up with branding or logos. That said, side projects with distinct and creative logos always look more reputable than those without.
+
+![](https://i.imgur.com/7tJLION.jpg)
+
+Since plenty of you are probably like me and don't have the greatest logo design skills, I've collected several great low-cost resources for designing and improving your side project's logo. While this list isn't comprehensive, it should give you enough options to get started and hopefully improve your project's branding and look. Take a look at the link at the bottom of this page if you'd like to submit your own!
+
+{% include featured-banner.html %}
+
+### All CRM Software
+
+{% include lists/Logo-Creation.md %}
+
+-----
+
+Did I miss a tool that you love? [Submit your suggestions here](https://airtable.com/shrwrPOxd0wlqoiZb), or [email me](mailto:marketing@portablecto.com) to suggest an update.

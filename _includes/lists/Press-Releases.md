@@ -1,5 +1,7 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Tech_Press_List">&#x25B2; <span class="count">2</span></a> &nbsp;**[Tech Press List](https://www.techpresslist.com/)** <span style="color: grey;">($20)</span> - For $20, you get the email addresses of 100 tech journalists.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Find-me">&#x25B2; <span class="count">1</span></a> &nbsp;**[Find-me](https://www.find-me.co/)** <span style="color: grey;">($9)</span> - A massive list of bloggers that you pay just $9/month for access to.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="PR_Buzz">&#x25B2; <span class="count">1</span></a> &nbsp;**[PR Buzz](https://www.prbuzz.com/)** <span style="color: grey;">($299)</span> - While their package is more expensive, it offers unlimited releases in a year.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="PRWeb">&#x25B2; <span class="count">1</span></a> &nbsp;**[PRWeb](http://service.prweb.com/home/)** <span style="color: grey;">($99)</span> - Adds SEO to your release by distributing it on their site as well as many others.
@@ -11,8 +13,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ANewswire">&#x25B2; <span class="count">0</span></a> &nbsp;**[ANewswire](http://www.anewswire.com/)** <span style="color: grey;">($0)</span> - They'll publish your release for free, but you pay (as little as $20) to have it distributed to other sites and journalists.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="EReleases">&#x25B2; <span class="count">0</span></a> &nbsp;**[EReleases](http://www.kqzyfj.com/click-8424281-10838484)** <span style="color: grey;">($299)</span> - Guaranteed distribution on 75 media sites, plus they send your release out to over 100,000 journalists.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Find-me">&#x25B2; <span class="count">0</span></a> &nbsp;**[Find-me](https://www.find-me.co/)** <span style="color: grey;">($9)</span> - A massive list of bloggers that you pay just $9/month for access to.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Newswire">&#x25B2; <span class="count">0</span></a> &nbsp;**[Newswire](https://www.newswire.com/)** <span style="color: grey;">($59)</span> - They have a low-cost package without guarantee of pickup.
 

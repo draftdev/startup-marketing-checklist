@@ -4,6 +4,10 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailchimp">&#x25B2; <span class="count">1</span></a> &nbsp;**[Mailchimp](http://eepurl.com/cMDrn5)** <span style="color: grey;">($0)</span> - You may have heard about them in a podcast advertisement, but Mailchimp is great for a number of reasons. Their email template builder is simple to use and they have a generous free tier for up to 2000 subscribers. Sign up today to get a free $30 credit!
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="MailerLite">&#x25B2; <span class="count">1</span></a> &nbsp;**[MailerLite](https://www.mailerlite.com)** <span style="color: grey;">($0)</span> - Email Marketing Service for Small Business with all features (Segmentation, Automation, A/B testing, ...) for up to 1,000 subscribers & unlimited emails for free.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Mautic">&#x25B2; <span class="count">1</span></a> &nbsp;**[Mautic](https://www.mautic.org/)** <span style="color: grey;">($0)</span> - Mautic offers a whole suite of open source marketing automation software. I still haven’t tried it, but I’ve heard good things.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ActiveCampaign">&#x25B2; <span class="count">0</span></a> &nbsp;**[ActiveCampaign](http://www.activecampaign.com/)** <span style="color: grey;">($9)</span> - Lets you create automated marketing workflows as well as manage emails and newsletters.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ActiveTrail">&#x25B2; <span class="count">0</span></a> &nbsp;**[ActiveTrail](https://www.activetrail.com/email_marketing_software/)** <span style="color: grey;">($7)</span>
@@ -48,8 +52,6 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Litmus">&#x25B2; <span class="count">0</span></a> &nbsp;**[Litmus](http://litmus.com/)** <span style="color: grey;">($79)</span>
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="MailerLite">&#x25B2; <span class="count">0</span></a> &nbsp;**[MailerLite](https://www.mailerlite.com)** <span style="color: grey;">($0)</span> - Email Marketing Service for Small Business with all features (Segmentation, Automation, A/B testing, ...) for up to 1,000 subscribers & unlimited emails for free.
-
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailget">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailget](https://www.formget.com/mailget-app/)** <span style="color: grey;">($24)</span>
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailgun">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailgun](https://www.mailgun.com/)** <span style="color: grey;">($0)</span> - Mailgun is an api-only email sending tool, so if your service needs to send transactional emails or you prefer writing your emails in vim, Mailgun is for you.
@@ -57,8 +59,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailjet">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailjet](https://www.mailjet.com/)** <span style="color: grey;">($0)</span>
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailshake">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailshake](https://mailshake.com/)** <span style="color: grey;">($19)</span> - Especially for cold email outreach.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Mautic">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mautic](https://www.mautic.org/)** <span style="color: grey;">($0)</span> - Mautic offers a whole suite of open source marketing automation software. I still haven’t tried it, but I’ve heard good things.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mixmax">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mixmax](https://mixmax.com/)** <span style="color: grey;">($9)</span>
 
