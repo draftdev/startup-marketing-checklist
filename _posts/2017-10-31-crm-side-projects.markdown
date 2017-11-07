@@ -14,7 +14,14 @@ Customer Relationship Management (or CRM for short) software can help you manage
 
 In this post I'm highlighting the bet low-cost CRMs for side project owners to turn to. If you have another one you like, add it by clicking the link at the bottom of this post.
 
-{% include featured-banner.html %}
+<div class="featured">
+  <h2>Featured</h2>
+  <a href="https://airtable.com/invite/r/4EaSmQNr"><img src="https://i.imgur.com/fvrAPPw.jpg" alt="Airtable"></a>
+  <p>
+    <strong><a href="https://airtable.com/invite/r/4EaSmQNr">Airtable</a></strong> - 
+    Put your spreadsheets on steroids with Airtable. Airtable makes it easy to organize customers, stuff, people, ideas and anything else you can imagine with your team.
+  </p>
+</div>
 
 ### All CRM Software
 

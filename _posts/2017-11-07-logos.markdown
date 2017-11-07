@@ -15,9 +15,16 @@ I'm not a designer, and I've never been great at coming up with branding or logo
 
 Since plenty of you are probably like me and don't have the greatest logo design skills, I've collected several great low-cost resources for designing and improving your side project's logo. While this list isn't comprehensive, it should give you enough options to get started and hopefully improve your project's branding and look. Take a look at the link at the bottom of this page if you'd like to submit your own!
 
-{% include featured-banner.html %}
+<div class="featured">
+  <h2>Featured</h2>
+  <a href="http://www.kqzyfj.com/click-8424281-13120045"><img src="https://i.imgur.com/P4UqB2b.png" alt="The Logo Company"></a>
+  <p>
+    <strong><a href="http://www.kqzyfj.com/click-8424281-13120045">The Logo Company</a></strong> - 
+    Get expert input from designers, redraws, and a money-back guarantee. Use <a href="http://www.kqzyfj.com/click-8424281-13120045">our exclusive link for 15% off your first order</a>!
+  </p>
+</div>
 
-### All CRM Software
+### All Logo Creation and Design Tools
 
 {% include lists/Logo-Creation.md %}
 
