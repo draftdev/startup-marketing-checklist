@@ -154,6 +154,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Watch a first time user use your product.
 - [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
 - [ ] Collect and display testimonials from happy users.
+- [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run an early-stage cold email campaign.
 
   ##### An early-stage cold email campaign
