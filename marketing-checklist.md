@@ -248,6 +248,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 - [ ] Run an engagement contest with prizes or free products for winners.
 - [ ] Buy email or lead lists.
+- [ ] Run [retargeting ads](https://retargeter.com/what-is-retargeting-and-how-does-it-work) to target users who have been to your site before.
 
 
 ## Recurring
