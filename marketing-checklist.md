@@ -369,5 +369,4 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Experiment with various signup form locations, colors, and sizes.
 - [ ] Add "Exit Intent" popup to your blog/site.
 - [ ] Create an FAQs page.
-- [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
