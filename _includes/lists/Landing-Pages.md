@@ -6,6 +6,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Lion">&#x25B2; <span class="count">1</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Prelaunch_Landing_Page">&#x25B2; <span class="count">1</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Carrd">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Elementor">&#x25B2; <span class="count">0</span></a> &nbsp;**[Elementor](https://elementor.com/)** <span style="color: grey;">($0)</span> - Specifically for Wordpress, Elementor gives you an interface for editing your site without code.
@@ -35,8 +37,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Neocities">&#x25B2; <span class="count">0</span></a> &nbsp;**[Neocities](https://neocities.org/)** <span style="color: grey;">($0)</span> - Neocities makes it easy to build your web site and explore other sites with an in-browser HTML editor, a command line tool, custom domain support, and fast performance.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ONTRApages">&#x25B2; <span class="count">0</span></a> &nbsp;**[ONTRApages](https://ontrapages.com/)** <span style="color: grey;">($0)</span> - Create your own landing page in minutes.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Prelaunch_Landing_Page">&#x25B2; <span class="count">0</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Reverent_Pages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Reverent Pages](https://www.reverentpages.com/)**  - Unlike most options on this list, Reverent is a full-service landing page service rather than a DIY tool.
 

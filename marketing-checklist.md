@@ -174,14 +174,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Write and distribute a white paper, exchange it for email signup.
 - [ ] Give free access to influential bloggers in the industry.
 - [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
-- [ ] Make sure all blog posts have high quality images.
-
-  ##### Places to get free stock images
-  - [ ] [Unsplash](https://unsplash.com/)
-  - [ ] [Skuawk](http://skuawk.com/index.html)
-  - [ ] [Pexels](https://www.pexels.com/)
-  - [ ] [Death to Stock](https://deathtothestockphoto.com/)
-
+- [ ] Make sure all blog posts have high quality images (see [this list of free stock image sites](https://www.sideprojectchecklist.com/2017/free-stock-images/)).
 - [ ] Create an online course or guide around your product/industry (be sure to [check out our list of course management tools](/2017/course-creation-tools)).
 - [ ] Run a link-building campaign.
 

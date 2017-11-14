@@ -1,4 +1,4 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Airtable">&#x25B2; <span class="count">1</span></a> &nbsp;**[Airtable](https://airtable.com/invite/r/4EaSmQNr)** <span style="color: grey;">($0)</span> - Airtable is a database that's as easy to use as a spreadsheet. I've been keeping my contacts in Airtable for the past few months and like it a lot.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Airtable">&#x25B2; <span class="count">2</span></a> &nbsp;**[Airtable](https://airtable.com/invite/r/4EaSmQNr)** <span style="color: grey;">($0)</span> - Airtable is a database that's as easy to use as a spreadsheet. I've been keeping my contacts in Airtable for the past few months and like it a lot.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Hubspot_CRM">&#x25B2; <span class="count">1</span></a> &nbsp;**[Hubspot CRM](https://www.hubspot.com/products/crm)** <span style="color: grey;">($0)</span> - Hubspot's free CRM is a great option for small businesses just starting out. If you use some of Hubspot's other tools then this will integrate nicely.
 

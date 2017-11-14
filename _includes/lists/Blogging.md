@@ -8,6 +8,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ButterCMS">&#x25B2; <span class="count">0</span></a> &nbsp;**[ButterCMS](https://buttercms.com/)** <span style="color: grey;">($24)</span> - If you’d prefer to use a CMS as a backend and integrate your blog into your site, an option like ButterCMS would work.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Cockpit">&#x25B2; <span class="count">0</span></a> &nbsp;**[Cockpit](https://getcockpit.com/)** <span style="color: grey;">($0)</span> - Cockpit is awesome if you need a flexible content structure but don't want to be limited in how to use the content.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Contentful">&#x25B2; <span class="count">0</span></a> &nbsp;**[Contentful](https://www.contentful.com/)** <span style="color: grey;">($0)</span> - Like ButterCMS, Contentful can be used as a complete content management system with an API that will hook into your site. Both solutions are only recommended for developers.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Drupal">&#x25B2; <span class="count">0</span></a> &nbsp;**[Drupal](https://www.drupal.org/)** <span style="color: grey;">($0)</span> - Free, open source, PHP. Drupal is a full-fledged content management system with a huge community.
