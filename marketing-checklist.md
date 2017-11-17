@@ -4,15 +4,15 @@ title: The Side Project Marketing Checklist
 permalink: /marketing-checklist/
 ---
 
-The Side Project Marketing Checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/2017/making-a-contribution).
+The [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and open source so feel free to [suggest your own additions anytime](https://github.com/karllhughes/side-project-marketing/issues).
 
 ## Pre-Launch
 
-### Market Research
+This section pairs nicely with the [Pre-Luanch section of the Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist), so be sure to check that out too.
 
-> _If we knew what we were doing it wouldn’t be called research._ - Albert Einstein
+### Competitor Research
 
-#### Competitive Landscape
+> _I have been up against tough competition all my life. I wouldn't know how to get along without it._ - Walt Disney
 
 - [ ] Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
   
@@ -37,6 +37,8 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 #### Customer Research
 
+> _If we knew what we were doing it wouldn’t be called research._ - Albert Einstein
+
 - [ ] Find people in your contact list who might be future customers. Get their feedback on your idea.
 - [ ] Attend meetups or conferences for your target market.
 - [ ] Meet another entrepreneur who has a similar or competitive product.
@@ -51,26 +53,18 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Reach out to your competitors' customers, find out what they like/don't like.
 - [ ] Create an "early access" list for potential future customers.
 
-### PR Preparations
+### Public Relations Preparations
 
 - [ ] Create list of tech, startup, and industry blogs.
 - [ ] Create list of local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
 - [ ] Create list of local bloggers and journalists in your industry.
 - [ ] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
 
-### Landing Page
+### Website Setup
 
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
-- [ ] Create a logo.
-
-  ##### Logo creation tools
-  - [ ] The Logo Company (use this link for [10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
-  - [ ] [LogoFox](https://logofox.co/form/name) (use coupon code "CHECKLIST" for 20% off your order)
-  - [ ] [The Noun Project](https://thenounproject.com/)
-  - [ ] [FlatIcon](https://www.flaticon.com/)
-  - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
-  
+- [ ] Create a logo (see [this list of logo creation tools](https://www.sideprojectchecklist.com/2017/logos/)).
 - [ ] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
 - [ ] Create "About" and "Contact" pages.
 - [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
@@ -90,11 +84,13 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
-- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools))
+- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools)).
 
 ### Email Setup
 
 *[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
+
+> _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
 
 - [ ] Set up email address to send and receive emails.
 - [ ] Set up email list and signup form.
@@ -124,10 +120,12 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Social Media Setup
 
-- [ ] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
-- [ ] Choose the social media accounts you'll use:
+> _Social media is the ultimate equalizer. It gives a voice and a platform to anyone willing to engage._ - Amy Jo Martin, CEO of Digital Royalty
 
-  ##### Social media platforms
+- [ ] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
+- [ ] Choose the social media accounts you'll use.
+
+  ##### Major social media platforms:
   - [ ] Facebook
   - [ ] Twitter
   - [ ] Linkedin
@@ -142,40 +140,21 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ## Post-Launch
 
-### Customer Outreach
-
-> _You should be talking to a small number of users who are seriously interested in what you’re making, not a broad audience who are on the whole indifferent._ - Jessica Livingston, Founding Partner at Y Combinator
-
-- [ ] Send a coupon code to close friends and family members to let them try your product.
-- [ ] Send early access notification to customers identified in research.
-- [ ] Reach out to your social media followers, ask them to try your product.
-- [ ] Cold call ~20 people who might be good customers.
-- [ ] Connect with potential customers on Linkedin, reach out when they accept.
-- [ ] Watch a first time user use your product.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
-- [ ] Collect and display testimonials from happy users.
-- [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
-- [ ] Run an early-stage cold email campaign.
-
-  ##### An early-stage cold email campaign
-  - [ ] Make a list of 30 prospective early customers' email addresses (Find email addresses with a tool like [Hunter](https://hunter.io/)).
-  - [ ] Send three cold emails per day for ten days. Experiment with messaging, take note of what works.
-  - [ ] Send three follow up emails per day for ten days. Experiment with messaging, take note of what works.
-  - [ ] Scale it up. Find more prospects, set up an automated drip campaign, rinse and repeat every month.
-  - [ ] There's also a [really comprehensive how-to article here](https://originalstitch.com/blog/automating-cold-emails-with-no-coding-your-software-development-project-plan).
+This section pairs nicely with the [Post-Luanch section of the Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist). Sales and marketing are really two sides of the same coin, so you'll probably need a little of both.
 
 ### Free Promotional Channels
 
 > _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
 
-- [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
-- [ ] Write and distribute a Press Release (here's a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
+- [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup) or you can use a service like [Instaaa](https://www.instaaa.com/)).
+- [ ] Write and distribute a Press Release (here's a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/), or you can [use one of these distribution tools](https://www.sideprojectchecklist.com/2017/press-release-tools/)).
 - [ ] Write and distribute an eBook, exchange it for email signup.
 - [ ] Write and distribute a white paper, exchange it for email signup.
 - [ ] Give free access to influential bloggers in the industry.
 - [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
 - [ ] Make sure all blog posts have high quality images (see [this list of free stock image sites](https://www.sideprojectchecklist.com/2017/free-stock-images/)).
-- [ ] Create an online course or guide around your product/industry (be sure to [check out our list of course management tools](/2017/course-creation-tools)).
+- [ ] Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://www.sideprojectchecklist.com/2017/course-creation-tools)).
+- [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run a link-building campaign.
 
   ##### Link building strategies
@@ -198,7 +177,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   
 ### Paid Promotional Channels
 
-> _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
+> _You must spend money to make money._ - Plautus, Ancient Roman playwright
 
 - [ ] Paid social and search advertising 
 
@@ -241,7 +220,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [Campaigned](https://campaignedapp.com/)
 
 - [ ] Run an engagement contest with prizes or free products for winners.
-- [ ] Buy email or lead lists.
 - [ ] Run [retargeting ads](https://retargeter.com/what-is-retargeting-and-how-does-it-work) to target users who have been to your site before.
 
 
@@ -249,7 +227,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Blogging
 
-> _Blogging is like work, but without coworkers thwarting you at every turn._ - Scott Adams
+> _Blogging is like work, but without coworkers thwarting you at every turn._ - Scott Adams, Creator of Dilbert
 
 - [ ] Build/update publishing calendar for your blog.
 - [ ] Regularly post blog posts on your blog(s).
@@ -273,7 +251,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Email
 
-> _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
+> _Any email that contains the words 'important' or 'urgent' never are, and annoy me to the point of not replying out of principle._ - Markus Persson, aka "Notch", creator of Minecraft 
 
 - [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
 - [ ] Promote email list on social media.
@@ -282,7 +260,7 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 
 ### Social Media
 
-> _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar
+> _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar, Founder of eBay
 
 - [ ] Schedule regular social media content (try these [social media tools to help automate the social media process](/2017/social-media-tools)).
 
@@ -363,3 +341,6 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
 - [ ] Add "Exit Intent" popup to your blog/site.
 - [ ] Create an FAQs page.
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
+- [ ] Watch a first time user use your product.
+- [ ] Collect and display testimonials from happy users.
+- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
