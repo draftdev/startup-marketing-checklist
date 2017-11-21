@@ -8,7 +8,7 @@ The [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/mark
 
 ## Pre-Launch
 
-This section pairs nicely with the [Pre-Luanch section of the Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist), so be sure to check that out too.
+This section pairs nicely with the [Pre-Launch section of the Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist), so be sure to check that out too.
 
 ### Competitor Research
 
@@ -140,7 +140,7 @@ This section pairs nicely with the [Pre-Luanch section of the Sales Checklist](h
 
 ## Post-Launch
 
-This section pairs nicely with the [Post-Luanch section of the Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist). Sales and marketing are really two sides of the same coin, so you'll probably need a little of both.
+This section pairs nicely with the [Post-Launch section of the Sales Checklist](https://www.sideprojectchecklist.com/sales-checklist). Sales and marketing are really two sides of the same coin, so you'll probably need a little of both.
 
 ### Free Promotional Channels
 
