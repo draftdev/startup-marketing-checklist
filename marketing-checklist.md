@@ -14,7 +14,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 
 > _I have been up against tough competition all my life. I wouldn't know how to get along without it._ - Walt Disney
 
-- [ ] Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
+- [ ] Make a list of competitors (see [this list of tools to research competitors](https://www.sideprojectchecklist.com/2017/competition-tools/)).
   
   ##### Competitor data to collect
   - [ ] Link to their website.
@@ -84,7 +84,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
-- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools)).
+- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](https://www.sideprojectchecklist.com/2017/customer-chat-tools)).
 
 ### Email Setup
 
@@ -101,7 +101,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 
 > _Content Marketing is all the marketing that’s left._ - Seth Godin
 
-- [ ] Choose a blogging platform (see this list of [blogging platforms for your side project](/2017/blogging-platforms)).
+- [ ] Choose a blogging platform (see this list of [blogging platforms for your side project](https://www.sideprojectchecklist.com/2017/blogging-platforms)).
 - [ ] Research keywords that you'd like your site/blog to rank for.
 
   ##### Keyword research tools
@@ -114,7 +114,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
 
 - [ ] Create anchor posts or pages for keywords you'd like to rank for.
-- [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](/2017/blog-post-ideas)).
+- [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](https://www.sideprojectchecklist.com/2017/blog-post-ideas)).
 - [ ] Add email signup form or link to all blog posts.
 - [ ] Add social media follow links to all blog posts.
 
@@ -262,7 +262,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 
 > _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar, Founder of eBay
 
-- [ ] Schedule regular social media content (try these [social media tools to help automate the social media process](/2017/social-media-tools)).
+- [ ] Schedule regular social media content (try these [social media tools to help automate the social media process](https://www.sideprojectchecklist.com/2017/social-media-tools)).
 
   ##### Content ideas
   - [ ] Show what happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
@@ -325,7 +325,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 
 - [ ] Run a customer poll (can also generate content for your blog or social media channels).
 - [ ] Create another side project to promote your product ([read more](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)).
-- [ ] A/B test your landing/payment pages (check out [Optimizely](https://www.optimizely.com/)).
+- [ ] A/B test your landing/payment pages (check out this [introduction to A/B testing](https://www.sideprojectchecklist.com/2017/what-is-ab-testing/)).
 - [ ] A/B test email newsletters and promotions.
 - [ ] Implement [Twitter cards](https://dev.twitter.com/cards/overview) on your blog posts.
 - [ ] Implement [rich snippets in Google search results](https://developers.google.com/search/docs/guides/mark-up-content).
@@ -343,4 +343,4 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
 - [ ] Watch a first time user use your product.
 - [ ] Collect and display testimonials from happy users.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
+- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://www.sideprojectchecklist.com/2017/survey-tools)).
