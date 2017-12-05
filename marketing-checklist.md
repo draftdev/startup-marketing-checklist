@@ -179,28 +179,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 
 > _You must spend money to make money._ - Plautus, Ancient Roman playwright
 
-- [ ] Paid social and search advertising 
-
-  ##### Social and search advertising platforms
-  - [ ] [Google Adwords](https://adwords.google.com/home/)
-  - [ ] [Linkedin](https://business.linkedin.com/marketing-solutions/ads)
-  - [ ] [Facebook](https://www.facebook.com/business/products/ads)
-  - [ ] [Bing](https://secure.bingads.microsoft.com/)
-  - [ ] [Twitter](https://ads.twitter.com/)
-  - [ ] [StumbleUpon](http://ads.stumbleupon.com/)
-  - [ ] [Pinterest](https://ads.pinterest.com/)
-  - [ ] [Instagram](https://business.instagram.com/advertising)
-  - [ ] [Launchbit](https://www.launchbit.com/)
-  - [ ] [Izea](https://izea.com/)
-  - [ ] [SponsoredReviews.com](http://www.sponsoredreviews.com/)
-
-- [ ] Commission based advertising
-
-  ##### Commission/affiliate advertising platforms
-  - [ ] [Commission Junction](http://www.cj.com/advertiser)
-  - [ ] [Affiliate.com](http://www.affiliate.com/)
-  - [ ] [Rakuten Marketing](https://rakutenmarketing.com/affiliate)
-  
+- [ ] Try a few social, search, and commission-based advertising platforms (see [this big list of advertising platforms if you aren't sure where to start](https://www.sideprojectchecklist.com/2017/online-advertising/)).
 - [ ] Sponsor a local meetup or conference for your target customers.
 - [ ] Sponsor podcasts your customers might be listening to.
 - [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
@@ -285,6 +264,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 
 - [ ] Ask bloggers with list articles to add your site to their content.
 - [ ] Reach out to small business journals, reporters, bloggers. Inform and ask for coverage.
+- [ ] Reach out to podcasters, try to get featured on their show.
 - [ ] Find professors and students with `.edu` sites to link to your content (good for SEO).
 - [ ] Find reviews or lists of similar products. Ask to be added or leave a comment about your product.
 - [ ] Guest post on other blogs.
