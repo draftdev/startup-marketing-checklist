@@ -323,7 +323,6 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
 - [ ] Watch a first time user use your product.
 - [ ] Collect and display testimonials from happy users.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget]
-(https://www.sideprojectchecklist.com/2017/survey-tools)).
+- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://www.sideprojectchecklist.com/2017/survey-tools)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 
