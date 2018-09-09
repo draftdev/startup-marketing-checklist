@@ -293,7 +293,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 
 - [ ] Leave comments on Slideshare presentations.
 - [ ] Review industry-related books on Amazon, Goodreads.
-- [ ] Register to be notified of relevant discussions on Reddit and Hacker News with [F5Bot](https://f5bot.com).
+- [ ] Register to be [notified of topics on Reddit and Hacker News with F5Bot](/2018/f5bot-tracking).
 - [ ] Create/publish presentations relevant to your industry.
 
   ##### Presentation Software
