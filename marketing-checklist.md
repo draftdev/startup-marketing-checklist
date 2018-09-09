@@ -87,6 +87,8 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 
 - [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](https://www.sideprojectchecklist.com/2017/customer-chat-tools)).
 
+- [ ] Test your website for common SEO, speed and security problems like broken links, missing page titles and insecure pages (see [Checkbot](https://www.checkbot.io)).
+
 ### Email Setup
 
 *[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
@@ -326,4 +328,5 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Collect and display testimonials from happy users.
 - [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://www.sideprojectchecklist.com/2017/survey-tools)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
+- [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems. 
 
