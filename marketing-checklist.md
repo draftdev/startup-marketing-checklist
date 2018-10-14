@@ -115,6 +115,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [Moz Keyword Explorer](https://moz.com/explorer)
   - [KWFinder](https://kwfinder.com/)
   - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
+  - [Ubersuggest](https://neilpatel.com/ubersuggest/)
 
 - [ ] Create anchor posts or pages for keywords you'd like to rank for.
 - [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](https://www.sideprojectchecklist.com/2017/blog-post-ideas)).
