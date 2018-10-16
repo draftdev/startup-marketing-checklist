@@ -34,7 +34,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Page Delta](https://pagedelta.com/)
 
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
-- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
+- [ ] Use [Google Trends](https://www.sideprojectchecklist.com/2018/google-trends-research/) to do initial demand and search volume research.
 
 #### Customer Research
 
