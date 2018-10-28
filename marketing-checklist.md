@@ -84,6 +84,12 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
+  
+- [ ] Set up error loggin, monitoring, capturing, etc.
+
+  ##### Error monitoring platforms
+  - [ ] [Bugsnag](https://www.bugsnag.com/)
+  - [ ] [Sentry](https://sentry.io/welcome/)
 
 - [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](https://www.sideprojectchecklist.com/2017/customer-chat-tools)).
 
