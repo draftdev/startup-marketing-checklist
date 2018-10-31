@@ -85,7 +85,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
   
-- [ ] Set up error loggin, monitoring, capturing, etc.
+- [ ] Set up error logging, monitoring, capturing, etc.
 
   ##### Error monitoring platforms
   - [ ] [Bugsnag](https://www.bugsnag.com/)
