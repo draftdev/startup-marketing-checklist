@@ -29,6 +29,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 - [ ] Monitor competitors' websites for changes.
   
   ##### Site monitoring tools
+  - [ ] [Deep Dive Duck](https://deepdiveduck.com/)
   - [ ] [Site Alerts](http://sitealerts.com/)
   - [ ] [Versionista](https://versionista.com/)
   - [ ] [Page Delta](https://pagedelta.com/)
