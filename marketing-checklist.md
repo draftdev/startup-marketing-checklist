@@ -339,3 +339,6 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 - [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems. 
 
+## GDPR compliance
+ - [ ] Follow the steps here to follow de GDPR compliance https://gdprchecklist.io/
+ - [ ] If you are using Shopify use a GDPR app that integrate this for you.
