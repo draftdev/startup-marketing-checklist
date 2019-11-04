@@ -338,4 +338,4 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://www.sideprojectchecklist.com/2017/survey-tools)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 - [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems. 
-
+ - [ ] Follow [the steps here](https://gdprchecklist.io/) to ensure GDPR compliance.
