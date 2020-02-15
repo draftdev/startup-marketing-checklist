@@ -180,11 +180,11 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
   
   ##### Link building tools
-  - [ ] [Ahrefs](https://ahrefs.com/) - Two-week free trial
+  - [ ] [Ahrefs](https://ahrefs.com/) - 7-day 7-USD trial
   - [ ] [Majestic](https://majestic.com/)
   - [ ] [Rank Signals](https://www.ranksignals.com/) - Free
   - [ ] [SEMrush](https://www.semrush.com/)
-  - [ ] [Serpstat](https://serpstat.com/) - Free limited account
+  - [ ] [SERPstat](https://serpstat.com/) - Free limited account
   
   
 ### Paid Promotional Channels
