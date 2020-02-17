@@ -168,6 +168,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://www.sideprojectchecklist.com/2017/course-creation-tools)).
 - [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run a link-building campaign.
+- [ ] Share the story of how you started your business on [Starter Story](https://starterstory.com) - it's free and you get a do-follow backlink.
 
   ##### Link building strategies
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
