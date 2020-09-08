@@ -30,9 +30,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   
   ##### Site monitoring tools
   - [ ] [Deep Dive Duck](https://deepdiveduck.com/)
-  - [ ] [Site Alerts](http://sitealerts.com/)
   - [ ] [Versionista](https://versionista.com/)
-  - [ ] [Page Delta](https://pagedelta.com/)
 
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
 - [ ] Use [Google Trends](https://www.sideprojectchecklist.com/2018/google-trends-research/) to do initial demand and search volume research.
