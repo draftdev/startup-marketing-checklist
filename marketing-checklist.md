@@ -29,9 +29,8 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 - [ ] Monitor competitors' websites for changes.
   
   ##### Site monitoring tools
-  - [ ] [Site Alerts](http://sitealerts.com/)
+  - [ ] [Deep Dive Duck](https://deepdiveduck.com/)
   - [ ] [Versionista](https://versionista.com/)
-  - [ ] [Page Delta](https://pagedelta.com/)
 
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
 - [ ] Use [Google Trends](https://www.sideprojectchecklist.com/2018/google-trends-research/) to do initial demand and search volume research.
@@ -84,6 +83,13 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
+  
+- [ ] Set up error logging, monitoring, capturing, etc.
+
+  ##### Error monitoring platforms
+  - [ ] [Bugsnag](https://www.bugsnag.com/)
+  - [ ] [Rollbar](https://rollbar.com/)
+  - [ ] [Sentry](https://sentry.io/welcome/)
 
 - [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](https://www.sideprojectchecklist.com/2017/customer-chat-tools)).
 
@@ -160,6 +166,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://www.sideprojectchecklist.com/2017/course-creation-tools)).
 - [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run a link-building campaign.
+- [ ] Share the story of how you started your business on [Starter Story](https://starterstory.com) - it's free and you get a do-follow backlink.
 
   ##### Link building strategies
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
@@ -172,11 +179,11 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
   
   ##### Link building tools
-  - [ ] [Ahrefs](https://ahrefs.com/) - Two-week free trial
+  - [ ] [Ahrefs](https://ahrefs.com/) - 7-day 7-USD trial
   - [ ] [Majestic](https://majestic.com/)
   - [ ] [Rank Signals](https://www.ranksignals.com/) - Free
   - [ ] [SEMrush](https://www.semrush.com/)
-  - [ ] [Serpstat](https://serpstat.com/) - Free limited account
+  - [ ] [SERPstat](https://serpstat.com/) - Free limited account
   
   
 ### Paid Promotional Channels
@@ -330,4 +337,4 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://www.sideprojectchecklist.com/2017/survey-tools)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 - [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems. 
-
+ - [ ] Follow [the steps here](https://gdprchecklist.io/) to ensure GDPR compliance.
