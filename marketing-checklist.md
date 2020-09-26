@@ -91,7 +91,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 
 ### Email Setup
 
-*[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
+*[See this list of email marketing tools](https://learn.draft.dev/tools/email-marketing) for services that make managing email easier.*
 
 > _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
 
