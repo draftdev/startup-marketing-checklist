@@ -83,6 +83,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
+  - [ ] [Plausible Analytics](https://plausible.io/)
   
 - [ ] Set up error logging, monitoring, capturing, etc.
 
@@ -238,6 +239,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
   - [ ] Email friends and relatives, ask them to share if relevant.
   - [ ] Send to other bloggers for feedback, ask to share if they like it.
   - [ ] Add your latest blog post or landing page to your email signature.
+  - [ ] Submit your post to relevant aggregators and niche communities.
 
 ### Email
 
@@ -267,6 +269,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Join Facebook and Linkedin groups where your product might be beneficial.
 - [ ] Send exclusive offers to LinkedIn/Facebook Group owners.
 - [ ] Join Twitter chats related to your industry/product.
+- [ ] Search Twitter for people talking about issues you're solving with your project and interact with them.
 - [ ] Give early users discounts for taking pics with your product.
 
 ### Public Relations
