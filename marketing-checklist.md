@@ -65,7 +65,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 - [ ] Come up with a name and domain name.
 - [ ] Write a site tagline and elevator pitch.
 - [ ] Create a logo (see [this list of logo creation tools](https://www.sideprojectchecklist.com/2017/logos/)).
-- [ ] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
+- [ ] Set up a landing page (see [this list of landing page tools](https://draft.dev/learn/tools/landing-pages)).
 - [ ] Create "About" and "Contact" pages.
 - [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 
@@ -97,7 +97,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 
 ### Email Setup
 
-*[See this list of email marketing tools](https://learn.draft.dev/tools/email-marketing) for services that make managing email easier.*
+*[See this list of email marketing tools](https://draft.dev/learn/tools/email-marketing) for services that make managing email easier.*
 
 > _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
 
