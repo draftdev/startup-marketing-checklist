@@ -163,7 +163,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Write and distribute a white paper, exchange it for email signup.
 - [ ] Give free access to influential bloggers in the industry.
 - [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](/2018/sneeze-page)").
-- [ ] Make sure all blog posts have high quality images (see [this list of free stock image sites](https://www.sideprojectchecklist.com/2017/free-stock-images/)).
+- [ ] Make sure all blog posts have high quality images (see [this list of free stock image sites](https://draft.dev/learn/tools/stock-images)).
 - [ ] Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://www.sideprojectchecklist.com/2017/course-creation-tools)).
 - [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run a link-building campaign.
