@@ -337,7 +337,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
 - [ ] Watch a first time user use your product.
 - [ ] Collect and display testimonials from happy users.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://draft.dev/learn/tools/surveys)).
+- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://draft.dev/learn/tools/surveys) or this [list of Google Forms alternatives](https://www.karllhughes.com/posts/google-forms-alternatives)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 - [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems. 
  - [ ] Follow [the steps here](https://gdprchecklist.io/) to ensure GDPR compliance.
