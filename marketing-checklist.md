@@ -133,7 +133,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 
 > _Social media is the ultimate equalizer. It gives a voice and a platform to anyone willing to engage._ - Amy Jo Martin, CEO of Digital Royalty
 
-- [ ] Search for availability of names on social networks using [KnowEm](http://shareasale.com/r.cfm?b=170332&u=1653894&m=21886&urllink=&afftrack=).
+- [ ] Search for availability of names on social networks using [KnowEm](https://knowem.com/).
 - [ ] Choose the social media accounts you'll use.
 
   ##### Major social media platforms:
