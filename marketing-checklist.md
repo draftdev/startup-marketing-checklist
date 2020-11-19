@@ -168,7 +168,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run a link-building campaign.
 
-  #### Share the story of how you started your business for free and get a do-follow backlink
+  ##### Share the story of how you started your business for free and get a do-follow backlink
   - [ ] [Starter Story](https://starterstory.com)
   - [ ] [Oyestartups](https://oyestartups.com)
 
