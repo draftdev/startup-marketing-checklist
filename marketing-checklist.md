@@ -15,7 +15,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 > _I have been up against tough competition all my life. I wouldn't know how to get along without it._ - Walt Disney
 
 - [ ] Make a list of competitors (see [this list of tools to research competitors](https://www.sideprojectchecklist.com/2017/competition-tools/)).
-  
+
   ##### Competitor data to collect
   - [ ] Link to their website.
   - [ ] "One-liners" and taglines competitors use.
@@ -27,7 +27,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
 - [ ] Follow your competitors and their key employees on social media.
 - [ ] Monitor competitors' websites for changes.
-  
+
   ##### Site monitoring tools
   - [ ] [Deep Dive Duck](https://deepdiveduck.com/)
   - [ ] [Versionista](https://versionista.com/)
@@ -84,7 +84,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
   - [ ] [Plausible Analytics](https://plausible.io/)
-  
+
 - [ ] Set up error logging, monitoring, capturing, etc.
 
   ##### Error monitoring platforms
@@ -167,7 +167,10 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Create an online course or guide around your product/industry (be sure to [check out this list of course management tools](https://www.sideprojectchecklist.com/2017/course-creation-tools)).
 - [ ] Run an [influencer marketing campaign](https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/).
 - [ ] Run a link-building campaign.
-- [ ] Share the story of how you started your business on [Starter Story](https://starterstory.com) - it's free and you get a do-follow backlink.
+
+  #### Share the story of how you started your business for free and get a do-follow backlink
+  - [ ] [Starter Story](https://starterstory.com)
+  - [ ] [Oyestartups](https://oyestartups.com)
 
   ##### Link building strategies
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
@@ -178,15 +181,15 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
   - [ ] Get interviewed on podcasts
   - [ ] Become a source on [Help a Reporter Out](https://www.helpareporter.com/)
   - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
-  
+
   ##### Link building tools
   - [ ] [Ahrefs](https://ahrefs.com/) - 7-day 7-USD trial
   - [ ] [Majestic](https://majestic.com/)
   - [ ] [Rank Signals](https://www.ranksignals.com/) - Free
   - [ ] [SEMrush](https://www.semrush.com/)
   - [ ] [SERPstat](https://serpstat.com/) - Free limited account
-  
-  
+
+
 ### Paid Promotional Channels
 
 > _You must spend money to make money._ - Plautus, Ancient Roman playwright
@@ -232,7 +235,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
   - [ ] Create a presentation of your post (see the [list of presentation software below](#presentation-software)).
 
 - [ ] Promote your blog content:
-  
+
   ##### Blog promotion techniques
   - [ ] Send post to your email list.
   - [ ] Promote on your social media.
@@ -243,7 +246,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 
 ### Email
 
-> _Any email that contains the words 'important' or 'urgent' never are, and annoy me to the point of not replying out of principle._ - Markus Persson, aka "Notch", creator of Minecraft 
+> _Any email that contains the words 'important' or 'urgent' never are, and annoy me to the point of not replying out of principle._ - Markus Persson, aka "Notch", creator of Minecraft
 
 - [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
 - [ ] Promote email list on social media.
@@ -297,7 +300,7 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 ### External Sites
 
 - [ ] Answer relevant questions on Q&A community sites (check back regularly)
-  
+
   ##### Q&A Communities
   - [ ] [Stack Overflow](https://stackoverflow.com/)
   - [ ] [Quora](https://www.quora.com/)
@@ -339,5 +342,5 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Collect and display testimonials from happy users.
 - [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](https://draft.dev/learn/tools/surveys) or this [list of Google Forms alternatives](https://www.karllhughes.com/posts/google-forms-alternatives)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
-- [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems. 
+- [ ] Use [Checkbot](https://www.checkbot.io) on your website to test for and fix SEO, speed and security problems.
  - [ ] Follow [the steps here](https://gdprchecklist.io/) to ensure GDPR compliance.
