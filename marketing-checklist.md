@@ -84,6 +84,7 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
   - [ ] [Plausible Analytics](https://plausible.io/)
+  - [ ] [Smartlook](https://www.smartlook.com/)
   
 - [ ] Set up error logging, monitoring, capturing, etc.
 
